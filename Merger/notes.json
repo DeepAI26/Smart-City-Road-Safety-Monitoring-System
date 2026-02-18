@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "construction"
+    },
+    {
+      "id": 1,
+      "name": "cracks"
+    },
+    {
+      "id": 2,
+      "name": "debris"
+    },
+    {
+      "id": 3,
+      "name": "flooding"
+    },
+    {
+      "id": 4,
+      "name": "pothole"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

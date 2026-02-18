@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Safe Route Planner</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; }
+    .container { display: flex; height: 100vh; }
+    .sidebar {
+      width: 330px;
+      padding: 16px;
+      background: white;
+      box-shadow: 2px 0 6px rgba(0,0,0,0.2);
+      z-index: 2;
+    }
+    .map { flex: 1; }
+    iframe { width: 100%; height: 100%; border: none; }
+    button {
+      width: 100%;
+      padding: 10px;
+      background: #1a73e8;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .route-card {
+      background: #f8f9fa;
+      padding: 10px;
+      margin-top: 10px;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+
+  <!-- LEFT SIDEBAR -->
+  <div class="sidebar">
+    <h2>Safe Navigation System</h2>
+
+    <p><b>Instructions:</b><br>
+       Click once on the map → Start point<br>
+       Click again → End point
+    </p>
+
+    <form method="POST">
+      <!-- Hidden fields filled by map clicks -->
+      <input type="hidden" id="start_lat" name="start_lat">
+      <input type="hidden" id="start_lon" name="start_lon">
+      <input type="hidden" id="end_lat" name="end_lat">
+      <input type="hidden" id="end_lon" name="end_lon">
+
+      <button type="submit">Compute Routes</button>
+    </form>
+
+    {% if error %}
+      <div class="route-card" style="background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb;">
+        <b>Error:</b><br>
+        {{ error }}
+      </div>
+    {% endif %}
+
+    {% if routes %}
+      {% if routes.shortest %}
+      <div class="route-card">
+        <b>Shortest Route</b><br>
+        Distance: {{ routes.shortest.distance|round(3) }} km<br>
+        Time: {{ routes.shortest.travel_time|round(1) }} min<br>
+        Safety: {{ routes.shortest.avg_safety|round(2) }}
+      </div>
+      {% endif %}
+
+      {% if routes.safest %}
+      <div class="route-card">
+        <b>Safest Route (AI)</b><br>
+        Distance: {{ routes.safest.distance|round(3) }} km<br>
+        Time: {{ routes.safest.travel_time|round(1) }} min<br>
+        Safety: {{ routes.safest.avg_safety|round(2) }}
+      </div>
+      {% endif %}
+
+      {% if routes.optimized %}
+      <div class="route-card">
+        <b>Optimized Route (A*)</b><br>
+        Distance: {{ routes.optimized.distance|round(3) }} km<br>
+        Time: {{ routes.optimized.travel_time|round(1) }} min<br>
+        Safety: {{ routes.optimized.avg_safety|round(2) }}
+      </div>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  <!-- MAP -->
+  <div class="map">
+    <iframe src="{{ map_file }}"></iframe>
+  </div>
+
+</div>
+
+<script>
+let clickCount = 0;
+
+document.addEventListener("DOMContentLoaded", () => {
+  window.addEventListener("message", (event) => {
+    if (!event.data || !event.data.lat) return;
+
+    if (clickCount === 0) {
+      document.getElementById("start_lat").value = event.data.lat;
+      document.getElementById("start_lon").value = event.data.lng;
+      alert("Start point selected");
+      clickCount++;
+    } else {
+      document.getElementById("end_lat").value = event.data.lat;
+      document.getElementById("end_lon").value = event.data.lng;
+      alert("End point selected");
+    }
+  });
+});
+</script>
+
+</body>
+</html>

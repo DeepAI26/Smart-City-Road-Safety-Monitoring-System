@@ -1,0 +1,7494 @@
+{
+  "frame_0307.jpg": [
+    {
+      "neighbor": "frame_0308.jpg",
+      "weight": 0.0005771185530100088,
+      "distance": 0.0004439373484692375,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0308.jpg": [
+    {
+      "neighbor": "frame_0307.jpg",
+      "weight": 0.0005771185530100088,
+      "distance": 0.0004439373484692375,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0309.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0309.jpg": [
+    {
+      "neighbor": "frame_0308.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0310.jpg",
+      "weight": 0.01894087023970407,
+      "distance": 0.014569900184387747,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0310.jpg": [
+    {
+      "neighbor": "frame_0309.jpg",
+      "weight": 0.01894087023970407,
+      "distance": 0.014569900184387747,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0311.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0311.jpg": [
+    {
+      "neighbor": "frame_0310.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0312.jpg",
+      "weight": 0.01562568541841538,
+      "distance": 0.01562568541841538,
+      "safety": "safe"
+    }
+  ],
+  "frame_0312.jpg": [
+    {
+      "neighbor": "frame_0311.jpg",
+      "weight": 0.01562568541841538,
+      "distance": 0.01562568541841538,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0313.jpg",
+      "weight": 0.017468545316961476,
+      "distance": 0.017468545316961476,
+      "safety": "safe"
+    }
+  ],
+  "frame_0313.jpg": [
+    {
+      "neighbor": "frame_0312.jpg",
+      "weight": 0.017468545316961476,
+      "distance": 0.017468545316961476,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0314.jpg",
+      "weight": 0.03215545661830065,
+      "distance": 0.03215545661830065,
+      "safety": "safe"
+    }
+  ],
+  "frame_0314.jpg": [
+    {
+      "neighbor": "frame_0313.jpg",
+      "weight": 0.03215545661830065,
+      "distance": 0.03215545661830065,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0315.jpg",
+      "weight": 0.03835407345821647,
+      "distance": 0.03835407345821647,
+      "safety": "safe"
+    }
+  ],
+  "frame_0315.jpg": [
+    {
+      "neighbor": "frame_0314.jpg",
+      "weight": 0.03835407345821647,
+      "distance": 0.03835407345821647,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0316.jpg",
+      "weight": 0.04302377789915078,
+      "distance": 0.04302377789915078,
+      "safety": "safe"
+    }
+  ],
+  "frame_0316.jpg": [
+    {
+      "neighbor": "frame_0315.jpg",
+      "weight": 0.04302377789915078,
+      "distance": 0.04302377789915078,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0317.jpg",
+      "weight": 0.03919742965866213,
+      "distance": 0.03919742965866213,
+      "safety": "safe"
+    }
+  ],
+  "frame_0317.jpg": [
+    {
+      "neighbor": "frame_0316.jpg",
+      "weight": 0.03919742965866213,
+      "distance": 0.03919742965866213,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0318.jpg",
+      "weight": 0.036634857699014416,
+      "distance": 0.036634857699014416,
+      "safety": "safe"
+    }
+  ],
+  "frame_0318.jpg": [
+    {
+      "neighbor": "frame_0317.jpg",
+      "weight": 0.036634857699014416,
+      "distance": 0.036634857699014416,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0319.jpg",
+      "weight": 0.03092560563307094,
+      "distance": 0.03092560563307094,
+      "safety": "safe"
+    }
+  ],
+  "frame_0319.jpg": [
+    {
+      "neighbor": "frame_0318.jpg",
+      "weight": 0.03092560563307094,
+      "distance": 0.03092560563307094,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0320.jpg",
+      "weight": 0.036913970059503476,
+      "distance": 0.036913970059503476,
+      "safety": "safe"
+    }
+  ],
+  "frame_0320.jpg": [
+    {
+      "neighbor": "frame_0319.jpg",
+      "weight": 0.036913970059503476,
+      "distance": 0.036913970059503476,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0322.jpg",
+      "weight": 0.010995080028641233,
+      "distance": 0.010995080028641233,
+      "safety": "safe"
+    }
+  ],
+  "frame_0322.jpg": [
+    {
+      "neighbor": "frame_0320.jpg",
+      "weight": 0.010995080028641233,
+      "distance": 0.010995080028641233,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0321.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0321.jpg": [
+    {
+      "neighbor": "frame_0322.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0324.jpg",
+      "weight": 0.010116518820350875,
+      "distance": 0.010116518820350875,
+      "safety": "safe"
+    }
+  ],
+  "frame_0324.jpg": [
+    {
+      "neighbor": "frame_0321.jpg",
+      "weight": 0.010116518820350875,
+      "distance": 0.010116518820350875,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0323.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0323.jpg": [
+    {
+      "neighbor": "frame_0324.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0325.jpg",
+      "weight": 0.010637784992327898,
+      "distance": 0.010637784992327898,
+      "safety": "safe"
+    }
+  ],
+  "frame_0325.jpg": [
+    {
+      "neighbor": "frame_0323.jpg",
+      "weight": 0.010637784992327898,
+      "distance": 0.010637784992327898,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0326.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0326.jpg": [
+    {
+      "neighbor": "frame_0325.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0327.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0327.jpg": [
+    {
+      "neighbor": "frame_0326.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0328.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0328.jpg": [
+    {
+      "neighbor": "frame_0327.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0329.jpg",
+      "weight": 0.017575465879514442,
+      "distance": 0.010338509340890848,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0329.jpg": [
+    {
+      "neighbor": "frame_0328.jpg",
+      "weight": 0.017575465879514442,
+      "distance": 0.010338509340890848,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0330.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0330.jpg": [
+    {
+      "neighbor": "frame_0329.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0331.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0331.jpg": [
+    {
+      "neighbor": "frame_0330.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0332.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0332.jpg": [
+    {
+      "neighbor": "frame_0331.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0333.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0333.jpg": [
+    {
+      "neighbor": "frame_0332.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0334.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0334.jpg": [
+    {
+      "neighbor": "frame_0333.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0335.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0335.jpg": [
+    {
+      "neighbor": "frame_0334.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0336.jpg",
+      "weight": 0.011008375831248514,
+      "distance": 0.011008375831248514,
+      "safety": "safe"
+    }
+  ],
+  "frame_0336.jpg": [
+    {
+      "neighbor": "frame_0335.jpg",
+      "weight": 0.011008375831248514,
+      "distance": 0.011008375831248514,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0000.jpg",
+      "weight": 0.7585883490047199,
+      "distance": 0.7585883490047199,
+      "safety": "safe"
+    }
+  ],
+  "frame_0000.jpg": [
+    {
+      "neighbor": "frame_0336.jpg",
+      "weight": 0.7585883490047199,
+      "distance": 0.7585883490047199,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0001.jpg",
+      "weight": 0.004112856782644297,
+      "distance": 0.004112856782644297,
+      "safety": "safe"
+    }
+  ],
+  "frame_0001.jpg": [
+    {
+      "neighbor": "frame_0000.jpg",
+      "weight": 0.004112856782644297,
+      "distance": 0.004112856782644297,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0002.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0002.jpg": [
+    {
+      "neighbor": "frame_0001.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0004.jpg",
+      "weight": 0.012157489552845128,
+      "distance": 0.012157489552845128,
+      "safety": "safe"
+    }
+  ],
+  "frame_0004.jpg": [
+    {
+      "neighbor": "frame_0002.jpg",
+      "weight": 0.012157489552845128,
+      "distance": 0.012157489552845128,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0003.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0003.jpg": [
+    {
+      "neighbor": "frame_0004.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0005.jpg",
+      "weight": 0.011939325189325441,
+      "distance": 0.011939325189325441,
+      "safety": "safe"
+    }
+  ],
+  "frame_0005.jpg": [
+    {
+      "neighbor": "frame_0003.jpg",
+      "weight": 0.011939325189325441,
+      "distance": 0.011939325189325441,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0006.jpg",
+      "weight": 0.011010475465280087,
+      "distance": 0.011010475465280087,
+      "safety": "safe"
+    }
+  ],
+  "frame_0006.jpg": [
+    {
+      "neighbor": "frame_0005.jpg",
+      "weight": 0.011010475465280087,
+      "distance": 0.011010475465280087,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0007.jpg",
+      "weight": 0.04156206261393155,
+      "distance": 0.03197081739533196,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0007.jpg": [
+    {
+      "neighbor": "frame_0006.jpg",
+      "weight": 0.04156206261393155,
+      "distance": 0.03197081739533196,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0008.jpg",
+      "weight": 0.02254632572272042,
+      "distance": 0.017343327479015708,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0008.jpg": [
+    {
+      "neighbor": "frame_0007.jpg",
+      "weight": 0.02254632572272042,
+      "distance": 0.017343327479015708,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0009.jpg",
+      "weight": 0.039374863393052406,
+      "distance": 0.030288356456194158,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0009.jpg": [
+    {
+      "neighbor": "frame_0008.jpg",
+      "weight": 0.039374863393052406,
+      "distance": 0.030288356456194158,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0010.jpg",
+      "weight": 0.03988570524274988,
+      "distance": 0.030681311725192215,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0010.jpg": [
+    {
+      "neighbor": "frame_0009.jpg",
+      "weight": 0.03988570524274988,
+      "distance": 0.030681311725192215,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0011.jpg",
+      "weight": 0.040618632813106806,
+      "distance": 0.03124510216392831,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0011.jpg": [
+    {
+      "neighbor": "frame_0010.jpg",
+      "weight": 0.040618632813106806,
+      "distance": 0.03124510216392831,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0012.jpg",
+      "weight": 0.04243259415578174,
+      "distance": 0.03264045704290903,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0012.jpg": [
+    {
+      "neighbor": "frame_0011.jpg",
+      "weight": 0.04243259415578174,
+      "distance": 0.03264045704290903,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0013.jpg",
+      "weight": 0.03611004336850879,
+      "distance": 0.03611004336850879,
+      "safety": "safe"
+    }
+  ],
+  "frame_0013.jpg": [
+    {
+      "neighbor": "frame_0012.jpg",
+      "weight": 0.03611004336850879,
+      "distance": 0.03611004336850879,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0014.jpg",
+      "weight": 0.03870635828330387,
+      "distance": 0.03870635828330387,
+      "safety": "safe"
+    }
+  ],
+  "frame_0014.jpg": [
+    {
+      "neighbor": "frame_0013.jpg",
+      "weight": 0.03870635828330387,
+      "distance": 0.03870635828330387,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0015.jpg",
+      "weight": 0.03873770220780545,
+      "distance": 0.03873770220780545,
+      "safety": "safe"
+    }
+  ],
+  "frame_0015.jpg": [
+    {
+      "neighbor": "frame_0014.jpg",
+      "weight": 0.03873770220780545,
+      "distance": 0.03873770220780545,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0016.jpg",
+      "weight": 0.036391262776675475,
+      "distance": 0.036391262776675475,
+      "safety": "safe"
+    }
+  ],
+  "frame_0016.jpg": [
+    {
+      "neighbor": "frame_0015.jpg",
+      "weight": 0.036391262776675475,
+      "distance": 0.036391262776675475,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0017.jpg",
+      "weight": 0.03642037239023951,
+      "distance": 0.03642037239023951,
+      "safety": "safe"
+    }
+  ],
+  "frame_0017.jpg": [
+    {
+      "neighbor": "frame_0016.jpg",
+      "weight": 0.03642037239023951,
+      "distance": 0.03642037239023951,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0018.jpg",
+      "weight": 0.037071126471958524,
+      "distance": 0.037071126471958524,
+      "safety": "safe"
+    }
+  ],
+  "frame_0018.jpg": [
+    {
+      "neighbor": "frame_0017.jpg",
+      "weight": 0.037071126471958524,
+      "distance": 0.037071126471958524,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0019.jpg",
+      "weight": 0.03656178313212024,
+      "distance": 0.03656178313212024,
+      "safety": "safe"
+    }
+  ],
+  "frame_0019.jpg": [
+    {
+      "neighbor": "frame_0018.jpg",
+      "weight": 0.03656178313212024,
+      "distance": 0.03656178313212024,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0020.jpg",
+      "weight": 0.045220113729465015,
+      "distance": 0.03478470286881924,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0020.jpg": [
+    {
+      "neighbor": "frame_0019.jpg",
+      "weight": 0.045220113729465015,
+      "distance": 0.03478470286881924,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0021.jpg",
+      "weight": 0.04632250664745984,
+      "distance": 0.035632697421122954,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0021.jpg": [
+    {
+      "neighbor": "frame_0020.jpg",
+      "weight": 0.04632250664745984,
+      "distance": 0.035632697421122954,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0022.jpg",
+      "weight": 0.04601212608854016,
+      "distance": 0.035393943145030894,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0022.jpg": [
+    {
+      "neighbor": "frame_0021.jpg",
+      "weight": 0.04601212608854016,
+      "distance": 0.035393943145030894,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0023.jpg",
+      "weight": 0.03873351055926978,
+      "distance": 0.029795008122515218,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0023.jpg": [
+    {
+      "neighbor": "frame_0022.jpg",
+      "weight": 0.03873351055926978,
+      "distance": 0.029795008122515218,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0024.jpg",
+      "weight": 0.028706093330654537,
+      "distance": 0.022081610254349644,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0024.jpg": [
+    {
+      "neighbor": "frame_0023.jpg",
+      "weight": 0.028706093330654537,
+      "distance": 0.022081610254349644,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0028.jpg",
+      "weight": 0.014345311957673709,
+      "distance": 0.0110348553520567,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0028.jpg": [
+    {
+      "neighbor": "frame_0024.jpg",
+      "weight": 0.014345311957673709,
+      "distance": 0.0110348553520567,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0025.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0025.jpg": [
+    {
+      "neighbor": "frame_0028.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0026.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0026.jpg": [
+    {
+      "neighbor": "frame_0025.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0029.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0029.jpg": [
+    {
+      "neighbor": "frame_0026.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0027.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0027.jpg": [
+    {
+      "neighbor": "frame_0029.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0030.jpg",
+      "weight": 0.021766692166575705,
+      "distance": 0.01674360935890439,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0030.jpg": [
+    {
+      "neighbor": "frame_0027.jpg",
+      "weight": 0.021766692166575705,
+      "distance": 0.01674360935890439,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0031.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0031.jpg": [
+    {
+      "neighbor": "frame_0030.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0034.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0034.jpg": [
+    {
+      "neighbor": "frame_0031.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0033.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0033.jpg": [
+    {
+      "neighbor": "frame_0034.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0032.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0032.jpg": [
+    {
+      "neighbor": "frame_0033.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0035.jpg",
+      "weight": 0.022789893125820165,
+      "distance": 0.017530687019861664,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0035.jpg": [
+    {
+      "neighbor": "frame_0032.jpg",
+      "weight": 0.022789893125820165,
+      "distance": 0.017530687019861664,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0036.jpg",
+      "weight": 0.048776202430972575,
+      "distance": 0.03752015571613275,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0036.jpg": [
+    {
+      "neighbor": "frame_0035.jpg",
+      "weight": 0.048776202430972575,
+      "distance": 0.03752015571613275,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0037.jpg",
+      "weight": 0.03146945845011036,
+      "distance": 0.02420727573085412,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0037.jpg": [
+    {
+      "neighbor": "frame_0036.jpg",
+      "weight": 0.03146945845011036,
+      "distance": 0.02420727573085412,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0038.jpg",
+      "weight": 0.053105875410418744,
+      "distance": 0.0408506733926298,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0038.jpg": [
+    {
+      "neighbor": "frame_0037.jpg",
+      "weight": 0.053105875410418744,
+      "distance": 0.0408506733926298,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0039.jpg",
+      "weight": 0.05818227504053743,
+      "distance": 0.04475559618502879,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0039.jpg": [
+    {
+      "neighbor": "frame_0038.jpg",
+      "weight": 0.05818227504053743,
+      "distance": 0.04475559618502879,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0040.jpg",
+      "weight": 0.05922179226894527,
+      "distance": 0.045555224822265594,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0040.jpg": [
+    {
+      "neighbor": "frame_0039.jpg",
+      "weight": 0.05922179226894527,
+      "distance": 0.045555224822265594,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0041.jpg",
+      "weight": 0.05587210866089045,
+      "distance": 0.04297854512376188,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0041.jpg": [
+    {
+      "neighbor": "frame_0040.jpg",
+      "weight": 0.05587210866089045,
+      "distance": 0.04297854512376188,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0042.jpg",
+      "weight": 0.05194186606257937,
+      "distance": 0.039955281586599514,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0042.jpg": [
+    {
+      "neighbor": "frame_0041.jpg",
+      "weight": 0.05194186606257937,
+      "distance": 0.039955281586599514,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0043.jpg",
+      "weight": 0.050077328311614135,
+      "distance": 0.038521021778164716,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0043.jpg": [
+    {
+      "neighbor": "frame_0042.jpg",
+      "weight": 0.050077328311614135,
+      "distance": 0.038521021778164716,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0044.jpg",
+      "weight": 0.06595541969040637,
+      "distance": 0.050734938223389515,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0044.jpg": [
+    {
+      "neighbor": "frame_0043.jpg",
+      "weight": 0.06595541969040637,
+      "distance": 0.050734938223389515,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0045.jpg",
+      "weight": 0.05187150786883564,
+      "distance": 0.03990115989910434,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0045.jpg": [
+    {
+      "neighbor": "frame_0044.jpg",
+      "weight": 0.05187150786883564,
+      "distance": 0.03990115989910434,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0046.jpg",
+      "weight": 0.053093751833568896,
+      "distance": 0.040841347564283766,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0046.jpg": [
+    {
+      "neighbor": "frame_0045.jpg",
+      "weight": 0.053093751833568896,
+      "distance": 0.040841347564283766,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0047.jpg",
+      "weight": 0.05961394358459047,
+      "distance": 0.0458568796804542,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0047.jpg": [
+    {
+      "neighbor": "frame_0046.jpg",
+      "weight": 0.05961394358459047,
+      "distance": 0.0458568796804542,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0048.jpg",
+      "weight": 0.07311883387225271,
+      "distance": 0.043011078748383946,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0048.jpg": [
+    {
+      "neighbor": "frame_0047.jpg",
+      "weight": 0.07311883387225271,
+      "distance": 0.043011078748383946,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0049.jpg",
+      "weight": 0.052510948751831064,
+      "distance": 0.04039303750140851,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0049.jpg": [
+    {
+      "neighbor": "frame_0048.jpg",
+      "weight": 0.052510948751831064,
+      "distance": 0.04039303750140851,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0050.jpg",
+      "weight": 0.052440133577826606,
+      "distance": 0.04033856429063585,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0050.jpg": [
+    {
+      "neighbor": "frame_0049.jpg",
+      "weight": 0.052440133577826606,
+      "distance": 0.04033856429063585,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0051.jpg",
+      "weight": 0.020226227051067427,
+      "distance": 0.01555863619312879,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0051.jpg": [
+    {
+      "neighbor": "frame_0050.jpg",
+      "weight": 0.020226227051067427,
+      "distance": 0.01555863619312879,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0052.jpg",
+      "weight": 0.03981705847114278,
+      "distance": 0.030628506516263674,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0052.jpg": [
+    {
+      "neighbor": "frame_0051.jpg",
+      "weight": 0.03981705847114278,
+      "distance": 0.030628506516263674,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0053.jpg",
+      "weight": 0.037404776838871584,
+      "distance": 0.037404776838871584,
+      "safety": "safe"
+    }
+  ],
+  "frame_0053.jpg": [
+    {
+      "neighbor": "frame_0052.jpg",
+      "weight": 0.037404776838871584,
+      "distance": 0.037404776838871584,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0054.jpg",
+      "weight": 0.025446246632080307,
+      "distance": 0.025446246632080307,
+      "safety": "safe"
+    }
+  ],
+  "frame_0054.jpg": [
+    {
+      "neighbor": "frame_0053.jpg",
+      "weight": 0.025446246632080307,
+      "distance": 0.025446246632080307,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0055.jpg",
+      "weight": 0.03476721613857594,
+      "distance": 0.03476721613857594,
+      "safety": "safe"
+    }
+  ],
+  "frame_0055.jpg": [
+    {
+      "neighbor": "frame_0054.jpg",
+      "weight": 0.03476721613857594,
+      "distance": 0.03476721613857594,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0056.jpg",
+      "weight": 0.0362723833917899,
+      "distance": 0.0362723833917899,
+      "safety": "safe"
+    }
+  ],
+  "frame_0056.jpg": [
+    {
+      "neighbor": "frame_0055.jpg",
+      "weight": 0.0362723833917899,
+      "distance": 0.0362723833917899,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0057.jpg",
+      "weight": 0.038514806574462906,
+      "distance": 0.038514806574462906,
+      "safety": "safe"
+    }
+  ],
+  "frame_0057.jpg": [
+    {
+      "neighbor": "frame_0056.jpg",
+      "weight": 0.038514806574462906,
+      "distance": 0.038514806574462906,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0058.jpg",
+      "weight": 0.036838710399980344,
+      "distance": 0.036838710399980344,
+      "safety": "safe"
+    }
+  ],
+  "frame_0058.jpg": [
+    {
+      "neighbor": "frame_0057.jpg",
+      "weight": 0.036838710399980344,
+      "distance": 0.036838710399980344,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0059.jpg",
+      "weight": 0.029319519979654422,
+      "distance": 0.029319519979654422,
+      "safety": "safe"
+    }
+  ],
+  "frame_0059.jpg": [
+    {
+      "neighbor": "frame_0058.jpg",
+      "weight": 0.029319519979654422,
+      "distance": 0.029319519979654422,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0060.jpg",
+      "weight": 0.028805299506756164,
+      "distance": 0.028805299506756164,
+      "safety": "safe"
+    }
+  ],
+  "frame_0060.jpg": [
+    {
+      "neighbor": "frame_0059.jpg",
+      "weight": 0.028805299506756164,
+      "distance": 0.028805299506756164,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0061.jpg",
+      "weight": 0.034174103170088614,
+      "distance": 0.034174103170088614,
+      "safety": "safe"
+    }
+  ],
+  "frame_0061.jpg": [
+    {
+      "neighbor": "frame_0060.jpg",
+      "weight": 0.034174103170088614,
+      "distance": 0.034174103170088614,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0062.jpg",
+      "weight": 0.03735788012165688,
+      "distance": 0.03735788012165688,
+      "safety": "safe"
+    }
+  ],
+  "frame_0062.jpg": [
+    {
+      "neighbor": "frame_0061.jpg",
+      "weight": 0.03735788012165688,
+      "distance": 0.03735788012165688,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0063.jpg",
+      "weight": 0.02803495486087293,
+      "distance": 0.02803495486087293,
+      "safety": "safe"
+    }
+  ],
+  "frame_0063.jpg": [
+    {
+      "neighbor": "frame_0062.jpg",
+      "weight": 0.02803495486087293,
+      "distance": 0.02803495486087293,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0064.jpg",
+      "weight": 0.011783595501302644,
+      "distance": 0.011783595501302644,
+      "safety": "safe"
+    }
+  ],
+  "frame_0064.jpg": [
+    {
+      "neighbor": "frame_0063.jpg",
+      "weight": 0.011783595501302644,
+      "distance": 0.011783595501302644,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0065.jpg",
+      "weight": 0.019026214243609875,
+      "distance": 0.019026214243609875,
+      "safety": "safe"
+    }
+  ],
+  "frame_0065.jpg": [
+    {
+      "neighbor": "frame_0064.jpg",
+      "weight": 0.019026214243609875,
+      "distance": 0.019026214243609875,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0066.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0066.jpg": [
+    {
+      "neighbor": "frame_0065.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0067.jpg",
+      "weight": 0.015826419411851828,
+      "distance": 0.015826419411851828,
+      "safety": "safe"
+    }
+  ],
+  "frame_0067.jpg": [
+    {
+      "neighbor": "frame_0066.jpg",
+      "weight": 0.015826419411851828,
+      "distance": 0.015826419411851828,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0068.jpg",
+      "weight": 0.03661239487337253,
+      "distance": 0.03661239487337253,
+      "safety": "safe"
+    }
+  ],
+  "frame_0068.jpg": [
+    {
+      "neighbor": "frame_0067.jpg",
+      "weight": 0.03661239487337253,
+      "distance": 0.03661239487337253,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0069.jpg",
+      "weight": 0.02968200065622728,
+      "distance": 0.02968200065622728,
+      "safety": "safe"
+    }
+  ],
+  "frame_0069.jpg": [
+    {
+      "neighbor": "frame_0068.jpg",
+      "weight": 0.02968200065622728,
+      "distance": 0.02968200065622728,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0070.jpg",
+      "weight": 0.019276784764286195,
+      "distance": 0.019276784764286195,
+      "safety": "safe"
+    }
+  ],
+  "frame_0070.jpg": [
+    {
+      "neighbor": "frame_0069.jpg",
+      "weight": 0.019276784764286195,
+      "distance": 0.019276784764286195,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0071.jpg",
+      "weight": 0.036825375168764954,
+      "distance": 0.036825375168764954,
+      "safety": "safe"
+    }
+  ],
+  "frame_0071.jpg": [
+    {
+      "neighbor": "frame_0070.jpg",
+      "weight": 0.036825375168764954,
+      "distance": 0.036825375168764954,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0072.jpg",
+      "weight": 0.019010885158372764,
+      "distance": 0.019010885158372764,
+      "safety": "safe"
+    }
+  ],
+  "frame_0072.jpg": [
+    {
+      "neighbor": "frame_0071.jpg",
+      "weight": 0.019010885158372764,
+      "distance": 0.019010885158372764,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0073.jpg",
+      "weight": 0.03238113235513148,
+      "distance": 0.03238113235513148,
+      "safety": "safe"
+    }
+  ],
+  "frame_0073.jpg": [
+    {
+      "neighbor": "frame_0072.jpg",
+      "weight": 0.03238113235513148,
+      "distance": 0.03238113235513148,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0074.jpg",
+      "weight": 0.03468884692641296,
+      "distance": 0.03468884692641296,
+      "safety": "safe"
+    }
+  ],
+  "frame_0074.jpg": [
+    {
+      "neighbor": "frame_0073.jpg",
+      "weight": 0.03468884692641296,
+      "distance": 0.03468884692641296,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0075.jpg",
+      "weight": 0.03633635474573385,
+      "distance": 0.03633635474573385,
+      "safety": "safe"
+    }
+  ],
+  "frame_0075.jpg": [
+    {
+      "neighbor": "frame_0074.jpg",
+      "weight": 0.03633635474573385,
+      "distance": 0.03633635474573385,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0076.jpg",
+      "weight": 0.036956324100799576,
+      "distance": 0.036956324100799576,
+      "safety": "safe"
+    }
+  ],
+  "frame_0076.jpg": [
+    {
+      "neighbor": "frame_0075.jpg",
+      "weight": 0.036956324100799576,
+      "distance": 0.036956324100799576,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0077.jpg",
+      "weight": 0.03531417517021662,
+      "distance": 0.03531417517021662,
+      "safety": "safe"
+    }
+  ],
+  "frame_0077.jpg": [
+    {
+      "neighbor": "frame_0076.jpg",
+      "weight": 0.03531417517021662,
+      "distance": 0.03531417517021662,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0078.jpg",
+      "weight": 0.0341205750514428,
+      "distance": 0.0341205750514428,
+      "safety": "safe"
+    }
+  ],
+  "frame_0078.jpg": [
+    {
+      "neighbor": "frame_0077.jpg",
+      "weight": 0.0341205750514428,
+      "distance": 0.0341205750514428,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0079.jpg",
+      "weight": 0.04101524034800293,
+      "distance": 0.04101524034800293,
+      "safety": "safe"
+    }
+  ],
+  "frame_0079.jpg": [
+    {
+      "neighbor": "frame_0078.jpg",
+      "weight": 0.04101524034800293,
+      "distance": 0.04101524034800293,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0080.jpg",
+      "weight": 0.024014464670049786,
+      "distance": 0.018472665130807527,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0080.jpg": [
+    {
+      "neighbor": "frame_0079.jpg",
+      "weight": 0.024014464670049786,
+      "distance": 0.018472665130807527,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0081.jpg",
+      "weight": 0.06178287152754295,
+      "distance": 0.03634286560443703,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0081.jpg": [
+    {
+      "neighbor": "frame_0080.jpg",
+      "weight": 0.06178287152754295,
+      "distance": 0.03634286560443703,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0082.jpg",
+      "weight": 0.028175195286137746,
+      "distance": 0.01657364428596338,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0082.jpg": [
+    {
+      "neighbor": "frame_0081.jpg",
+      "weight": 0.028175195286137746,
+      "distance": 0.01657364428596338,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0083.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0083.jpg": [
+    {
+      "neighbor": "frame_0082.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0084.jpg",
+      "weight": 0.021232740146649408,
+      "distance": 0.012489847145087888,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0084.jpg": [
+    {
+      "neighbor": "frame_0083.jpg",
+      "weight": 0.021232740146649408,
+      "distance": 0.012489847145087888,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0085.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0085.jpg": [
+    {
+      "neighbor": "frame_0084.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0086.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0086.jpg": [
+    {
+      "neighbor": "frame_0085.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0087.jpg",
+      "weight": 0.02185380306760485,
+      "distance": 0.012855178275061677,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0087.jpg": [
+    {
+      "neighbor": "frame_0086.jpg",
+      "weight": 0.02185380306760485,
+      "distance": 0.012855178275061677,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0088.jpg",
+      "weight": 0.02033493274730006,
+      "distance": 0.015642255959461584,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0088.jpg": [
+    {
+      "neighbor": "frame_0087.jpg",
+      "weight": 0.02033493274730006,
+      "distance": 0.015642255959461584,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0089.jpg",
+      "weight": 0.029264894068836877,
+      "distance": 0.022511456976028365,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0089.jpg": [
+    {
+      "neighbor": "frame_0088.jpg",
+      "weight": 0.029264894068836877,
+      "distance": 0.022511456976028365,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0090.jpg",
+      "weight": 0.018195387669242544,
+      "distance": 0.013996452053263494,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0090.jpg": [
+    {
+      "neighbor": "frame_0089.jpg",
+      "weight": 0.018195387669242544,
+      "distance": 0.013996452053263494,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0091.jpg",
+      "weight": 0.036615056357809886,
+      "distance": 0.028165427967546064,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0091.jpg": [
+    {
+      "neighbor": "frame_0090.jpg",
+      "weight": 0.036615056357809886,
+      "distance": 0.028165427967546064,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0092.jpg",
+      "weight": 0.019354207728518872,
+      "distance": 0.014887852098860671,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0092.jpg": [
+    {
+      "neighbor": "frame_0091.jpg",
+      "weight": 0.019354207728518872,
+      "distance": 0.014887852098860671,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0093.jpg",
+      "weight": 0.038824741222208664,
+      "distance": 0.029865185555545123,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0093.jpg": [
+    {
+      "neighbor": "frame_0092.jpg",
+      "weight": 0.038824741222208664,
+      "distance": 0.029865185555545123,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0094.jpg",
+      "weight": 0.018117578868986864,
+      "distance": 0.013936599129989895,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0094.jpg": [
+    {
+      "neighbor": "frame_0093.jpg",
+      "weight": 0.018117578868986864,
+      "distance": 0.013936599129989895,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0095.jpg",
+      "weight": 0.04124874489914923,
+      "distance": 0.03172980376857633,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0095.jpg": [
+    {
+      "neighbor": "frame_0094.jpg",
+      "weight": 0.04124874489914923,
+      "distance": 0.03172980376857633,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0096.jpg",
+      "weight": 0.0388174138170359,
+      "distance": 0.029859549090027616,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0096.jpg": [
+    {
+      "neighbor": "frame_0095.jpg",
+      "weight": 0.0388174138170359,
+      "distance": 0.029859549090027616,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0097.jpg",
+      "weight": 0.02762731680209966,
+      "distance": 0.021251782155461276,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0097.jpg": [
+    {
+      "neighbor": "frame_0096.jpg",
+      "weight": 0.02762731680209966,
+      "distance": 0.021251782155461276,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0098.jpg",
+      "weight": 0.031178426993285432,
+      "distance": 0.02398340537945033,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0098.jpg": [
+    {
+      "neighbor": "frame_0097.jpg",
+      "weight": 0.031178426993285432,
+      "distance": 0.02398340537945033,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0099.jpg",
+      "weight": 0.017299302524113686,
+      "distance": 0.013307155787779757,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0099.jpg": [
+    {
+      "neighbor": "frame_0098.jpg",
+      "weight": 0.017299302524113686,
+      "distance": 0.013307155787779757,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0100.jpg",
+      "weight": 0.01937939481984558,
+      "distance": 0.0149072267844966,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0100.jpg": [
+    {
+      "neighbor": "frame_0099.jpg",
+      "weight": 0.01937939481984558,
+      "distance": 0.0149072267844966,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0101.jpg",
+      "weight": 0.020847008009506108,
+      "distance": 0.01603616000731239,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0101.jpg": [
+    {
+      "neighbor": "frame_0100.jpg",
+      "weight": 0.020847008009506108,
+      "distance": 0.01603616000731239,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0102.jpg",
+      "weight": 0.03503025709160057,
+      "distance": 0.026946351608923513,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0102.jpg": [
+    {
+      "neighbor": "frame_0101.jpg",
+      "weight": 0.03503025709160057,
+      "distance": 0.026946351608923513,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0103.jpg",
+      "weight": 0.015008865023889421,
+      "distance": 0.011545280787607247,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0103.jpg": [
+    {
+      "neighbor": "frame_0102.jpg",
+      "weight": 0.015008865023889421,
+      "distance": 0.011545280787607247,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0104.jpg",
+      "weight": 0.026515237783979708,
+      "distance": 0.02039633675690747,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0104.jpg": [
+    {
+      "neighbor": "frame_0103.jpg",
+      "weight": 0.026515237783979708,
+      "distance": 0.02039633675690747,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0105.jpg",
+      "weight": 0.013398013938265344,
+      "distance": 0.010306164567896419,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0105.jpg": [
+    {
+      "neighbor": "frame_0104.jpg",
+      "weight": 0.013398013938265344,
+      "distance": 0.010306164567896419,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0106.jpg",
+      "weight": 0.018330500341650086,
+      "distance": 0.014100384878192374,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0106.jpg": [
+    {
+      "neighbor": "frame_0105.jpg",
+      "weight": 0.018330500341650086,
+      "distance": 0.014100384878192374,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0107.jpg",
+      "weight": 0.018193677860148607,
+      "distance": 0.013995136815498927,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0107.jpg": [
+    {
+      "neighbor": "frame_0106.jpg",
+      "weight": 0.018193677860148607,
+      "distance": 0.013995136815498927,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0108.jpg",
+      "weight": 0.039276068670112414,
+      "distance": 0.030212360515471087,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0108.jpg": [
+    {
+      "neighbor": "frame_0107.jpg",
+      "weight": 0.039276068670112414,
+      "distance": 0.030212360515471087,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0109.jpg",
+      "weight": 0.017917305707225547,
+      "distance": 0.013782542851711958,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0109.jpg": [
+    {
+      "neighbor": "frame_0108.jpg",
+      "weight": 0.017917305707225547,
+      "distance": 0.013782542851711958,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0110.jpg",
+      "weight": 0.032233896386202346,
+      "distance": 0.02479530491246334,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0110.jpg": [
+    {
+      "neighbor": "frame_0109.jpg",
+      "weight": 0.032233896386202346,
+      "distance": 0.02479530491246334,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0111.jpg",
+      "weight": 0.016381429715765807,
+      "distance": 0.012601099781358312,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0111.jpg": [
+    {
+      "neighbor": "frame_0110.jpg",
+      "weight": 0.016381429715765807,
+      "distance": 0.012601099781358312,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0112.jpg",
+      "weight": 0.04484222117211981,
+      "distance": 0.03449401628624601,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0112.jpg": [
+    {
+      "neighbor": "frame_0111.jpg",
+      "weight": 0.04484222117211981,
+      "distance": 0.03449401628624601,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0113.jpg",
+      "weight": 0.021763732435410237,
+      "distance": 0.016741332642623258,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0113.jpg": [
+    {
+      "neighbor": "frame_0112.jpg",
+      "weight": 0.021763732435410237,
+      "distance": 0.016741332642623258,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0114.jpg",
+      "weight": 0.019443991212864203,
+      "distance": 0.014956916317587849,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0114.jpg": [
+    {
+      "neighbor": "frame_0113.jpg",
+      "weight": 0.019443991212864203,
+      "distance": 0.014956916317587849,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0115.jpg",
+      "weight": 0.014728501972280487,
+      "distance": 0.01132961690175422,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0115.jpg": [
+    {
+      "neighbor": "frame_0114.jpg",
+      "weight": 0.014728501972280487,
+      "distance": 0.01132961690175422,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0116.jpg",
+      "weight": 0.015989337642383104,
+      "distance": 0.012299490494140848,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0116.jpg": [
+    {
+      "neighbor": "frame_0115.jpg",
+      "weight": 0.015989337642383104,
+      "distance": 0.012299490494140848,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0117.jpg",
+      "weight": 0.02777310084785177,
+      "distance": 0.021363923729116746,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0117.jpg": [
+    {
+      "neighbor": "frame_0116.jpg",
+      "weight": 0.02777310084785177,
+      "distance": 0.021363923729116746,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0118.jpg",
+      "weight": 0.016753048471595713,
+      "distance": 0.012886960362765933,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0118.jpg": [
+    {
+      "neighbor": "frame_0117.jpg",
+      "weight": 0.016753048471595713,
+      "distance": 0.012886960362765933,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0120.jpg",
+      "weight": 0.023560916478833602,
+      "distance": 0.023560916478833602,
+      "safety": "safe"
+    }
+  ],
+  "frame_0120.jpg": [
+    {
+      "neighbor": "frame_0118.jpg",
+      "weight": 0.023560916478833602,
+      "distance": 0.023560916478833602,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0119.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0119.jpg": [
+    {
+      "neighbor": "frame_0120.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0121.jpg",
+      "weight": 0.012024221166677148,
+      "distance": 0.012024221166677148,
+      "safety": "safe"
+    }
+  ],
+  "frame_0121.jpg": [
+    {
+      "neighbor": "frame_0119.jpg",
+      "weight": 0.012024221166677148,
+      "distance": 0.012024221166677148,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0122.jpg",
+      "weight": 0.03241019254921724,
+      "distance": 0.02493091734555172,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0122.jpg": [
+    {
+      "neighbor": "frame_0121.jpg",
+      "weight": 0.03241019254921724,
+      "distance": 0.02493091734555172,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0123.jpg",
+      "weight": 0.017938936228288356,
+      "distance": 0.017938936228288356,
+      "safety": "safe"
+    }
+  ],
+  "frame_0123.jpg": [
+    {
+      "neighbor": "frame_0122.jpg",
+      "weight": 0.017938936228288356,
+      "distance": 0.017938936228288356,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0124.jpg",
+      "weight": 0.029266541878606823,
+      "distance": 0.029266541878606823,
+      "safety": "safe"
+    }
+  ],
+  "frame_0124.jpg": [
+    {
+      "neighbor": "frame_0123.jpg",
+      "weight": 0.029266541878606823,
+      "distance": 0.029266541878606823,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0125.jpg",
+      "weight": 0.032173563116486344,
+      "distance": 0.032173563116486344,
+      "safety": "safe"
+    }
+  ],
+  "frame_0125.jpg": [
+    {
+      "neighbor": "frame_0124.jpg",
+      "weight": 0.032173563116486344,
+      "distance": 0.032173563116486344,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0126.jpg",
+      "weight": 0.03775277861730502,
+      "distance": 0.03775277861730502,
+      "safety": "safe"
+    }
+  ],
+  "frame_0126.jpg": [
+    {
+      "neighbor": "frame_0125.jpg",
+      "weight": 0.03775277861730502,
+      "distance": 0.03775277861730502,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0127.jpg",
+      "weight": 0.014051851198741394,
+      "distance": 0.010809116306724148,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0127.jpg": [
+    {
+      "neighbor": "frame_0126.jpg",
+      "weight": 0.014051851198741394,
+      "distance": 0.010809116306724148,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0128.jpg",
+      "weight": 0.012983753778716287,
+      "distance": 0.012983753778716287,
+      "safety": "safe"
+    }
+  ],
+  "frame_0128.jpg": [
+    {
+      "neighbor": "frame_0127.jpg",
+      "weight": 0.012983753778716287,
+      "distance": 0.012983753778716287,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0129.jpg",
+      "weight": 0.019160187049970905,
+      "distance": 0.014738605423054541,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0129.jpg": [
+    {
+      "neighbor": "frame_0128.jpg",
+      "weight": 0.019160187049970905,
+      "distance": 0.014738605423054541,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0130.jpg",
+      "weight": 0.03824264792388528,
+      "distance": 0.03824264792388528,
+      "safety": "safe"
+    }
+  ],
+  "frame_0130.jpg": [
+    {
+      "neighbor": "frame_0129.jpg",
+      "weight": 0.03824264792388528,
+      "distance": 0.03824264792388528,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0131.jpg",
+      "weight": 0.02781736283742866,
+      "distance": 0.02139797141340666,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0131.jpg": [
+    {
+      "neighbor": "frame_0130.jpg",
+      "weight": 0.02781736283742866,
+      "distance": 0.02139797141340666,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0132.jpg",
+      "weight": 0.029758627938759965,
+      "distance": 0.029758627938759965,
+      "safety": "safe"
+    }
+  ],
+  "frame_0132.jpg": [
+    {
+      "neighbor": "frame_0131.jpg",
+      "weight": 0.029758627938759965,
+      "distance": 0.029758627938759965,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0133.jpg",
+      "weight": 0.04777046358334414,
+      "distance": 0.03674651044872626,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0133.jpg": [
+    {
+      "neighbor": "frame_0132.jpg",
+      "weight": 0.04777046358334414,
+      "distance": 0.03674651044872626,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0134.jpg",
+      "weight": 0.020256622183244404,
+      "distance": 0.020256622183244404,
+      "safety": "safe"
+    }
+  ],
+  "frame_0134.jpg": [
+    {
+      "neighbor": "frame_0133.jpg",
+      "weight": 0.020256622183244404,
+      "distance": 0.020256622183244404,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0135.jpg",
+      "weight": 0.04479544178676216,
+      "distance": 0.0344580321436632,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0135.jpg": [
+    {
+      "neighbor": "frame_0134.jpg",
+      "weight": 0.04479544178676216,
+      "distance": 0.0344580321436632,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0136.jpg",
+      "weight": 0.018306498540369896,
+      "distance": 0.014081921954130688,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0136.jpg": [
+    {
+      "neighbor": "frame_0135.jpg",
+      "weight": 0.018306498540369896,
+      "distance": 0.014081921954130688,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0138.jpg",
+      "weight": 0.014335958024240376,
+      "distance": 0.011027660018646444,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0138.jpg": [
+    {
+      "neighbor": "frame_0136.jpg",
+      "weight": 0.014335958024240376,
+      "distance": 0.011027660018646444,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0137.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0137.jpg": [
+    {
+      "neighbor": "frame_0138.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0139.jpg",
+      "weight": 0.0257799403441908,
+      "distance": 0.01983072334168523,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0139.jpg": [
+    {
+      "neighbor": "frame_0137.jpg",
+      "weight": 0.0257799403441908,
+      "distance": 0.01983072334168523,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0140.jpg",
+      "weight": 0.01669766993888791,
+      "distance": 0.01669766993888791,
+      "safety": "safe"
+    }
+  ],
+  "frame_0140.jpg": [
+    {
+      "neighbor": "frame_0139.jpg",
+      "weight": 0.01669766993888791,
+      "distance": 0.01669766993888791,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0141.jpg",
+      "weight": 0.017440402506040658,
+      "distance": 0.017440402506040658,
+      "safety": "safe"
+    }
+  ],
+  "frame_0141.jpg": [
+    {
+      "neighbor": "frame_0140.jpg",
+      "weight": 0.017440402506040658,
+      "distance": 0.017440402506040658,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0142.jpg",
+      "weight": 0.020046630687984728,
+      "distance": 0.015420485144603636,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0142.jpg": [
+    {
+      "neighbor": "frame_0141.jpg",
+      "weight": 0.020046630687984728,
+      "distance": 0.015420485144603636,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0143.jpg",
+      "weight": 0.05805502965577963,
+      "distance": 0.034150017444576256,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0143.jpg": [
+    {
+      "neighbor": "frame_0142.jpg",
+      "weight": 0.05805502965577963,
+      "distance": 0.034150017444576256,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0144.jpg",
+      "weight": 0.022329026867476842,
+      "distance": 0.017176174513443724,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0144.jpg": [
+    {
+      "neighbor": "frame_0143.jpg",
+      "weight": 0.022329026867476842,
+      "distance": 0.017176174513443724,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0145.jpg",
+      "weight": 0.044136126624284094,
+      "distance": 0.033950866634064686,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0145.jpg": [
+    {
+      "neighbor": "frame_0144.jpg",
+      "weight": 0.044136126624284094,
+      "distance": 0.033950866634064686,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0147.jpg",
+      "weight": 0.026278485595653506,
+      "distance": 0.020214219688964235,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0147.jpg": [
+    {
+      "neighbor": "frame_0145.jpg",
+      "weight": 0.026278485595653506,
+      "distance": 0.020214219688964235,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0146.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0146.jpg": [
+    {
+      "neighbor": "frame_0147.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0148.jpg",
+      "weight": 0.014696098560228157,
+      "distance": 0.011304691200175505,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0148.jpg": [
+    {
+      "neighbor": "frame_0146.jpg",
+      "weight": 0.014696098560228157,
+      "distance": 0.011304691200175505,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0149.jpg",
+      "weight": 0.0393314321334106,
+      "distance": 0.030254947794931233,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0149.jpg": [
+    {
+      "neighbor": "frame_0148.jpg",
+      "weight": 0.0393314321334106,
+      "distance": 0.030254947794931233,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0150.jpg",
+      "weight": 0.021047788633912726,
+      "distance": 0.016190606641471327,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0150.jpg": [
+    {
+      "neighbor": "frame_0149.jpg",
+      "weight": 0.021047788633912726,
+      "distance": 0.016190606641471327,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0151.jpg",
+      "weight": 0.013571739125104159,
+      "distance": 0.010439799327003198,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0151.jpg": [
+    {
+      "neighbor": "frame_0150.jpg",
+      "weight": 0.013571739125104159,
+      "distance": 0.010439799327003198,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0152.jpg",
+      "weight": 0.031971644955251524,
+      "distance": 0.024593573042501173,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0152.jpg": [
+    {
+      "neighbor": "frame_0151.jpg",
+      "weight": 0.031971644955251524,
+      "distance": 0.024593573042501173,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0153.jpg",
+      "weight": 0.01434374821461616,
+      "distance": 0.01103365247278166,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0153.jpg": [
+    {
+      "neighbor": "frame_0152.jpg",
+      "weight": 0.01434374821461616,
+      "distance": 0.01103365247278166,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0154.jpg",
+      "weight": 0.03903366340833548,
+      "distance": 0.03002589492948883,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0154.jpg": [
+    {
+      "neighbor": "frame_0153.jpg",
+      "weight": 0.03903366340833548,
+      "distance": 0.03002589492948883,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0155.jpg",
+      "weight": 0.02302529846392123,
+      "distance": 0.017711768049170178,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0155.jpg": [
+    {
+      "neighbor": "frame_0154.jpg",
+      "weight": 0.02302529846392123,
+      "distance": 0.017711768049170178,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0156.jpg",
+      "weight": 0.034808777767149336,
+      "distance": 0.034808777767149336,
+      "safety": "safe"
+    }
+  ],
+  "frame_0156.jpg": [
+    {
+      "neighbor": "frame_0155.jpg",
+      "weight": 0.034808777767149336,
+      "distance": 0.034808777767149336,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0157.jpg",
+      "weight": 0.021883415342611217,
+      "distance": 0.016833396417393242,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0157.jpg": [
+    {
+      "neighbor": "frame_0156.jpg",
+      "weight": 0.021883415342611217,
+      "distance": 0.016833396417393242,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0158.jpg",
+      "weight": 0.018266630693968666,
+      "distance": 0.014051254379975897,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0158.jpg": [
+    {
+      "neighbor": "frame_0157.jpg",
+      "weight": 0.018266630693968666,
+      "distance": 0.014051254379975897,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0159.jpg",
+      "weight": 0.015816704400672822,
+      "distance": 0.012166695692825249,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0159.jpg": [
+    {
+      "neighbor": "frame_0158.jpg",
+      "weight": 0.015816704400672822,
+      "distance": 0.012166695692825249,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0160.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0160.jpg": [
+    {
+      "neighbor": "frame_0159.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0161.jpg",
+      "weight": 0.014907826229963764,
+      "distance": 0.014907826229963764,
+      "safety": "safe"
+    }
+  ],
+  "frame_0161.jpg": [
+    {
+      "neighbor": "frame_0160.jpg",
+      "weight": 0.014907826229963764,
+      "distance": 0.014907826229963764,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0162.jpg",
+      "weight": 0.038327752215912926,
+      "distance": 0.029482886319933017,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0162.jpg": [
+    {
+      "neighbor": "frame_0161.jpg",
+      "weight": 0.038327752215912926,
+      "distance": 0.029482886319933017,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0163.jpg",
+      "weight": 0.02086837105865824,
+      "distance": 0.016052593122044802,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0163.jpg": [
+    {
+      "neighbor": "frame_0162.jpg",
+      "weight": 0.02086837105865824,
+      "distance": 0.016052593122044802,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0164.jpg",
+      "weight": 0.04622104019098643,
+      "distance": 0.035554646300758795,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0164.jpg": [
+    {
+      "neighbor": "frame_0163.jpg",
+      "weight": 0.04622104019098643,
+      "distance": 0.035554646300758795,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0165.jpg",
+      "weight": 0.02719662901208485,
+      "distance": 0.015998017065932266,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0165.jpg": [
+    {
+      "neighbor": "frame_0164.jpg",
+      "weight": 0.02719662901208485,
+      "distance": 0.015998017065932266,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0166.jpg",
+      "weight": 0.015829369805117347,
+      "distance": 0.01217643831162873,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0166.jpg": [
+    {
+      "neighbor": "frame_0165.jpg",
+      "weight": 0.015829369805117347,
+      "distance": 0.01217643831162873,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0167.jpg",
+      "weight": 0.015058872419559232,
+      "distance": 0.011583748015045563,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0167.jpg": [
+    {
+      "neighbor": "frame_0166.jpg",
+      "weight": 0.015058872419559232,
+      "distance": 0.011583748015045563,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0168.jpg",
+      "weight": 0.015072419781275156,
+      "distance": 0.01159416906251935,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0168.jpg": [
+    {
+      "neighbor": "frame_0167.jpg",
+      "weight": 0.015072419781275156,
+      "distance": 0.01159416906251935,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0169.jpg",
+      "weight": 0.014111109717312038,
+      "distance": 0.010854699782547722,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0169.jpg": [
+    {
+      "neighbor": "frame_0168.jpg",
+      "weight": 0.014111109717312038,
+      "distance": 0.010854699782547722,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0170.jpg",
+      "weight": 0.037140107335819975,
+      "distance": 0.028569313335246132,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0170.jpg": [
+    {
+      "neighbor": "frame_0169.jpg",
+      "weight": 0.037140107335819975,
+      "distance": 0.028569313335246132,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0171.jpg",
+      "weight": 0.036537334395277975,
+      "distance": 0.02810564184252152,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0171.jpg": [
+    {
+      "neighbor": "frame_0170.jpg",
+      "weight": 0.036537334395277975,
+      "distance": 0.02810564184252152,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0172.jpg",
+      "weight": 0.018731365564209502,
+      "distance": 0.014408742741699617,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0172.jpg": [
+    {
+      "neighbor": "frame_0171.jpg",
+      "weight": 0.018731365564209502,
+      "distance": 0.014408742741699617,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0173.jpg",
+      "weight": 0.012678591434307518,
+      "distance": 0.012678591434307518,
+      "safety": "safe"
+    }
+  ],
+  "frame_0173.jpg": [
+    {
+      "neighbor": "frame_0172.jpg",
+      "weight": 0.012678591434307518,
+      "distance": 0.012678591434307518,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0174.jpg",
+      "weight": 0.010291908718757079,
+      "distance": 0.010291908718757079,
+      "safety": "safe"
+    }
+  ],
+  "frame_0174.jpg": [
+    {
+      "neighbor": "frame_0173.jpg",
+      "weight": 0.010291908718757079,
+      "distance": 0.010291908718757079,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0175.jpg",
+      "weight": 0.011345871298693671,
+      "distance": 0.011345871298693671,
+      "safety": "safe"
+    }
+  ],
+  "frame_0175.jpg": [
+    {
+      "neighbor": "frame_0174.jpg",
+      "weight": 0.011345871298693671,
+      "distance": 0.011345871298693671,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0176.jpg",
+      "weight": 0.011025390434280028,
+      "distance": 0.011025390434280028,
+      "safety": "safe"
+    }
+  ],
+  "frame_0176.jpg": [
+    {
+      "neighbor": "frame_0175.jpg",
+      "weight": 0.011025390434280028,
+      "distance": 0.011025390434280028,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0177.jpg",
+      "weight": 0.011000875564058567,
+      "distance": 0.011000875564058567,
+      "safety": "safe"
+    }
+  ],
+  "frame_0177.jpg": [
+    {
+      "neighbor": "frame_0176.jpg",
+      "weight": 0.011000875564058567,
+      "distance": 0.011000875564058567,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0178.jpg",
+      "weight": 0.02602008228776788,
+      "distance": 0.02602008228776788,
+      "safety": "safe"
+    }
+  ],
+  "frame_0178.jpg": [
+    {
+      "neighbor": "frame_0177.jpg",
+      "weight": 0.02602008228776788,
+      "distance": 0.02602008228776788,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0179.jpg",
+      "weight": 0.013993565977538772,
+      "distance": 0.013993565977538772,
+      "safety": "safe"
+    }
+  ],
+  "frame_0179.jpg": [
+    {
+      "neighbor": "frame_0178.jpg",
+      "weight": 0.013993565977538772,
+      "distance": 0.013993565977538772,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0180.jpg",
+      "weight": 0.014592257015610765,
+      "distance": 0.014592257015610765,
+      "safety": "safe"
+    }
+  ],
+  "frame_0180.jpg": [
+    {
+      "neighbor": "frame_0179.jpg",
+      "weight": 0.014592257015610765,
+      "distance": 0.014592257015610765,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0181.jpg",
+      "weight": 0.02940161753626002,
+      "distance": 0.02940161753626002,
+      "safety": "safe"
+    }
+  ],
+  "frame_0181.jpg": [
+    {
+      "neighbor": "frame_0180.jpg",
+      "weight": 0.02940161753626002,
+      "distance": 0.02940161753626002,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0182.jpg",
+      "weight": 0.011514995709430997,
+      "distance": 0.011514995709430997,
+      "safety": "safe"
+    }
+  ],
+  "frame_0182.jpg": [
+    {
+      "neighbor": "frame_0181.jpg",
+      "weight": 0.011514995709430997,
+      "distance": 0.011514995709430997,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0183.jpg",
+      "weight": 0.014201072371994434,
+      "distance": 0.010923901824611103,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0183.jpg": [
+    {
+      "neighbor": "frame_0182.jpg",
+      "weight": 0.014201072371994434,
+      "distance": 0.010923901824611103,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0184.jpg",
+      "weight": 0.015696079078921173,
+      "distance": 0.012073906983785517,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0184.jpg": [
+    {
+      "neighbor": "frame_0183.jpg",
+      "weight": 0.015696079078921173,
+      "distance": 0.012073906983785517,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0185.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0185.jpg": [
+    {
+      "neighbor": "frame_0184.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0186.jpg",
+      "weight": 0.016959808338601255,
+      "distance": 0.013046006414308657,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0186.jpg": [
+    {
+      "neighbor": "frame_0185.jpg",
+      "weight": 0.016959808338601255,
+      "distance": 0.013046006414308657,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0187.jpg",
+      "weight": 0.038810632224856804,
+      "distance": 0.02985433248065908,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0187.jpg": [
+    {
+      "neighbor": "frame_0186.jpg",
+      "weight": 0.038810632224856804,
+      "distance": 0.02985433248065908,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0188.jpg",
+      "weight": 0.013270569065342415,
+      "distance": 0.013270569065342415,
+      "safety": "safe"
+    }
+  ],
+  "frame_0188.jpg": [
+    {
+      "neighbor": "frame_0187.jpg",
+      "weight": 0.013270569065342415,
+      "distance": 0.013270569065342415,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0189.jpg",
+      "weight": 0.012508336340356765,
+      "distance": 0.012508336340356765,
+      "safety": "safe"
+    }
+  ],
+  "frame_0189.jpg": [
+    {
+      "neighbor": "frame_0188.jpg",
+      "weight": 0.012508336340356765,
+      "distance": 0.012508336340356765,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0190.jpg",
+      "weight": 0.017565296780221198,
+      "distance": 0.013511766754016306,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0190.jpg": [
+    {
+      "neighbor": "frame_0189.jpg",
+      "weight": 0.017565296780221198,
+      "distance": 0.013511766754016306,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0191.jpg",
+      "weight": 0.018450474011145756,
+      "distance": 0.014192672316265965,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0191.jpg": [
+    {
+      "neighbor": "frame_0190.jpg",
+      "weight": 0.018450474011145756,
+      "distance": 0.014192672316265965,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0192.jpg",
+      "weight": 0.028668882100069158,
+      "distance": 0.028668882100069158,
+      "safety": "safe"
+    }
+  ],
+  "frame_0192.jpg": [
+    {
+      "neighbor": "frame_0191.jpg",
+      "weight": 0.028668882100069158,
+      "distance": 0.028668882100069158,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0193.jpg",
+      "weight": 0.04246775129906979,
+      "distance": 0.03266750099928445,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0193.jpg": [
+    {
+      "neighbor": "frame_0192.jpg",
+      "weight": 0.04246775129906979,
+      "distance": 0.03266750099928445,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0194.jpg",
+      "weight": 0.05076147381522934,
+      "distance": 0.03904728755017641,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0194.jpg": [
+    {
+      "neighbor": "frame_0193.jpg",
+      "weight": 0.05076147381522934,
+      "distance": 0.03904728755017641,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0195.jpg",
+      "weight": 0.05043776372591412,
+      "distance": 0.038798279789164704,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0195.jpg": [
+    {
+      "neighbor": "frame_0194.jpg",
+      "weight": 0.05043776372591412,
+      "distance": 0.038798279789164704,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0196.jpg",
+      "weight": 0.016114425435910785,
+      "distance": 0.016114425435910785,
+      "safety": "safe"
+    }
+  ],
+  "frame_0196.jpg": [
+    {
+      "neighbor": "frame_0195.jpg",
+      "weight": 0.016114425435910785,
+      "distance": 0.016114425435910785,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0197.jpg",
+      "weight": 0.012859374666485141,
+      "distance": 0.012859374666485141,
+      "safety": "safe"
+    }
+  ],
+  "frame_0197.jpg": [
+    {
+      "neighbor": "frame_0196.jpg",
+      "weight": 0.012859374666485141,
+      "distance": 0.012859374666485141,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0198.jpg",
+      "weight": 0.011170443165182722,
+      "distance": 0.011170443165182722,
+      "safety": "safe"
+    }
+  ],
+  "frame_0198.jpg": [
+    {
+      "neighbor": "frame_0197.jpg",
+      "weight": 0.011170443165182722,
+      "distance": 0.011170443165182722,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0199.jpg",
+      "weight": 0.015216113427415317,
+      "distance": 0.015216113427415317,
+      "safety": "safe"
+    }
+  ],
+  "frame_0199.jpg": [
+    {
+      "neighbor": "frame_0198.jpg",
+      "weight": 0.015216113427415317,
+      "distance": 0.015216113427415317,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0200.jpg",
+      "weight": 0.030109282854115006,
+      "distance": 0.030109282854115006,
+      "safety": "safe"
+    }
+  ],
+  "frame_0200.jpg": [
+    {
+      "neighbor": "frame_0199.jpg",
+      "weight": 0.030109282854115006,
+      "distance": 0.030109282854115006,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0201.jpg",
+      "weight": 0.014881997126810842,
+      "distance": 0.014881997126810842,
+      "safety": "safe"
+    }
+  ],
+  "frame_0201.jpg": [
+    {
+      "neighbor": "frame_0200.jpg",
+      "weight": 0.014881997126810842,
+      "distance": 0.014881997126810842,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0202.jpg",
+      "weight": 0.011726849042171288,
+      "distance": 0.011726849042171288,
+      "safety": "safe"
+    }
+  ],
+  "frame_0202.jpg": [
+    {
+      "neighbor": "frame_0201.jpg",
+      "weight": 0.011726849042171288,
+      "distance": 0.011726849042171288,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0203.jpg",
+      "weight": 0.014096927761423442,
+      "distance": 0.014096927761423442,
+      "safety": "safe"
+    }
+  ],
+  "frame_0203.jpg": [
+    {
+      "neighbor": "frame_0202.jpg",
+      "weight": 0.014096927761423442,
+      "distance": 0.014096927761423442,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0204.jpg",
+      "weight": 0.014876391179401148,
+      "distance": 0.014876391179401148,
+      "safety": "safe"
+    }
+  ],
+  "frame_0204.jpg": [
+    {
+      "neighbor": "frame_0203.jpg",
+      "weight": 0.014876391179401148,
+      "distance": 0.014876391179401148,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0205.jpg",
+      "weight": 0.034331199424853666,
+      "distance": 0.034331199424853666,
+      "safety": "safe"
+    }
+  ],
+  "frame_0205.jpg": [
+    {
+      "neighbor": "frame_0204.jpg",
+      "weight": 0.034331199424853666,
+      "distance": 0.034331199424853666,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0206.jpg",
+      "weight": 0.019103792064114302,
+      "distance": 0.019103792064114302,
+      "safety": "safe"
+    }
+  ],
+  "frame_0206.jpg": [
+    {
+      "neighbor": "frame_0205.jpg",
+      "weight": 0.019103792064114302,
+      "distance": 0.019103792064114302,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0207.jpg",
+      "weight": 0.03705631648775885,
+      "distance": 0.03705631648775885,
+      "safety": "safe"
+    }
+  ],
+  "frame_0207.jpg": [
+    {
+      "neighbor": "frame_0206.jpg",
+      "weight": 0.03705631648775885,
+      "distance": 0.03705631648775885,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0208.jpg",
+      "weight": 0.017505638200934013,
+      "distance": 0.017505638200934013,
+      "safety": "safe"
+    }
+  ],
+  "frame_0208.jpg": [
+    {
+      "neighbor": "frame_0207.jpg",
+      "weight": 0.017505638200934013,
+      "distance": 0.017505638200934013,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0209.jpg",
+      "weight": 0.02755331929581952,
+      "distance": 0.02755331929581952,
+      "safety": "safe"
+    }
+  ],
+  "frame_0209.jpg": [
+    {
+      "neighbor": "frame_0208.jpg",
+      "weight": 0.02755331929581952,
+      "distance": 0.02755331929581952,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0210.jpg",
+      "weight": 0.012706830920271745,
+      "distance": 0.012706830920271745,
+      "safety": "safe"
+    }
+  ],
+  "frame_0210.jpg": [
+    {
+      "neighbor": "frame_0209.jpg",
+      "weight": 0.012706830920271745,
+      "distance": 0.012706830920271745,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0211.jpg",
+      "weight": 0.010301793300266683,
+      "distance": 0.010301793300266683,
+      "safety": "safe"
+    }
+  ],
+  "frame_0211.jpg": [
+    {
+      "neighbor": "frame_0210.jpg",
+      "weight": 0.010301793300266683,
+      "distance": 0.010301793300266683,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0212.jpg",
+      "weight": 0.028094028363284528,
+      "distance": 0.028094028363284528,
+      "safety": "safe"
+    }
+  ],
+  "frame_0212.jpg": [
+    {
+      "neighbor": "frame_0211.jpg",
+      "weight": 0.028094028363284528,
+      "distance": 0.028094028363284528,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0213.jpg",
+      "weight": 0.016898678396814016,
+      "distance": 0.016898678396814016,
+      "safety": "safe"
+    }
+  ],
+  "frame_0213.jpg": [
+    {
+      "neighbor": "frame_0212.jpg",
+      "weight": 0.016898678396814016,
+      "distance": 0.016898678396814016,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0214.jpg",
+      "weight": 0.03802481639620029,
+      "distance": 0.03802481639620029,
+      "safety": "safe"
+    }
+  ],
+  "frame_0214.jpg": [
+    {
+      "neighbor": "frame_0213.jpg",
+      "weight": 0.03802481639620029,
+      "distance": 0.03802481639620029,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0215.jpg",
+      "weight": 0.017453125470880758,
+      "distance": 0.017453125470880758,
+      "safety": "safe"
+    }
+  ],
+  "frame_0215.jpg": [
+    {
+      "neighbor": "frame_0214.jpg",
+      "weight": 0.017453125470880758,
+      "distance": 0.017453125470880758,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0216.jpg",
+      "weight": 0.03288193836773995,
+      "distance": 0.03288193836773995,
+      "safety": "safe"
+    }
+  ],
+  "frame_0216.jpg": [
+    {
+      "neighbor": "frame_0215.jpg",
+      "weight": 0.03288193836773995,
+      "distance": 0.03288193836773995,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0217.jpg",
+      "weight": 0.018940238330095793,
+      "distance": 0.018940238330095793,
+      "safety": "safe"
+    }
+  ],
+  "frame_0217.jpg": [
+    {
+      "neighbor": "frame_0216.jpg",
+      "weight": 0.018940238330095793,
+      "distance": 0.018940238330095793,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0218.jpg",
+      "weight": 0.03544280602480243,
+      "distance": 0.03544280602480243,
+      "safety": "safe"
+    }
+  ],
+  "frame_0218.jpg": [
+    {
+      "neighbor": "frame_0217.jpg",
+      "weight": 0.03544280602480243,
+      "distance": 0.03544280602480243,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0219.jpg",
+      "weight": 0.011470941986582476,
+      "distance": 0.011470941986582476,
+      "safety": "safe"
+    }
+  ],
+  "frame_0219.jpg": [
+    {
+      "neighbor": "frame_0218.jpg",
+      "weight": 0.011470941986582476,
+      "distance": 0.011470941986582476,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0220.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0220.jpg": [
+    {
+      "neighbor": "frame_0219.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0221.jpg",
+      "weight": 0.010755038794226856,
+      "distance": 0.010755038794226856,
+      "safety": "safe"
+    }
+  ],
+  "frame_0221.jpg": [
+    {
+      "neighbor": "frame_0220.jpg",
+      "weight": 0.010755038794226856,
+      "distance": 0.010755038794226856,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0222.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0222.jpg": [
+    {
+      "neighbor": "frame_0221.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0223.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0223.jpg": [
+    {
+      "neighbor": "frame_0222.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0224.jpg",
+      "weight": 0.011869351432854499,
+      "distance": 0.011869351432854499,
+      "safety": "safe"
+    }
+  ],
+  "frame_0224.jpg": [
+    {
+      "neighbor": "frame_0223.jpg",
+      "weight": 0.011869351432854499,
+      "distance": 0.011869351432854499,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0225.jpg",
+      "weight": 0.03058561132148549,
+      "distance": 0.03058561132148549,
+      "safety": "safe"
+    }
+  ],
+  "frame_0225.jpg": [
+    {
+      "neighbor": "frame_0224.jpg",
+      "weight": 0.03058561132148549,
+      "distance": 0.03058561132148549,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0226.jpg",
+      "weight": 0.017326134497703396,
+      "distance": 0.017326134497703396,
+      "safety": "safe"
+    }
+  ],
+  "frame_0226.jpg": [
+    {
+      "neighbor": "frame_0225.jpg",
+      "weight": 0.017326134497703396,
+      "distance": 0.017326134497703396,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0227.jpg",
+      "weight": 0.028326932850073497,
+      "distance": 0.028326932850073497,
+      "safety": "safe"
+    }
+  ],
+  "frame_0227.jpg": [
+    {
+      "neighbor": "frame_0226.jpg",
+      "weight": 0.028326932850073497,
+      "distance": 0.028326932850073497,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0228.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0228.jpg": [
+    {
+      "neighbor": "frame_0227.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0229.jpg",
+      "weight": 0.01186096497613384,
+      "distance": 0.01186096497613384,
+      "safety": "safe"
+    }
+  ],
+  "frame_0229.jpg": [
+    {
+      "neighbor": "frame_0228.jpg",
+      "weight": 0.01186096497613384,
+      "distance": 0.01186096497613384,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0230.jpg",
+      "weight": 0.010138812355388747,
+      "distance": 0.010138812355388747,
+      "safety": "safe"
+    }
+  ],
+  "frame_0230.jpg": [
+    {
+      "neighbor": "frame_0229.jpg",
+      "weight": 0.010138812355388747,
+      "distance": 0.010138812355388747,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0231.jpg",
+      "weight": 0.011727627799598545,
+      "distance": 0.011727627799598545,
+      "safety": "safe"
+    }
+  ],
+  "frame_0231.jpg": [
+    {
+      "neighbor": "frame_0230.jpg",
+      "weight": 0.011727627799598545,
+      "distance": 0.011727627799598545,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0232.jpg",
+      "weight": 0.022499988370514493,
+      "distance": 0.013235287276773231,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0232.jpg": [
+    {
+      "neighbor": "frame_0231.jpg",
+      "weight": 0.022499988370514493,
+      "distance": 0.013235287276773231,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0233.jpg",
+      "weight": 0.030852115944987685,
+      "distance": 0.030852115944987685,
+      "safety": "safe"
+    }
+  ],
+  "frame_0233.jpg": [
+    {
+      "neighbor": "frame_0232.jpg",
+      "weight": 0.030852115944987685,
+      "distance": 0.030852115944987685,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0234.jpg",
+      "weight": 0.010817710308891068,
+      "distance": 0.010817710308891068,
+      "safety": "safe"
+    }
+  ],
+  "frame_0234.jpg": [
+    {
+      "neighbor": "frame_0233.jpg",
+      "weight": 0.010817710308891068,
+      "distance": 0.010817710308891068,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0235.jpg",
+      "weight": 0.010014508124001223,
+      "distance": 0.010014508124001223,
+      "safety": "safe"
+    }
+  ],
+  "frame_0235.jpg": [
+    {
+      "neighbor": "frame_0234.jpg",
+      "weight": 0.010014508124001223,
+      "distance": 0.010014508124001223,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0236.jpg",
+      "weight": 0.02556347837129215,
+      "distance": 0.02556347837129215,
+      "safety": "safe"
+    }
+  ],
+  "frame_0236.jpg": [
+    {
+      "neighbor": "frame_0235.jpg",
+      "weight": 0.02556347837129215,
+      "distance": 0.02556347837129215,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0237.jpg",
+      "weight": 0.0164208367870226,
+      "distance": 0.0164208367870226,
+      "safety": "safe"
+    }
+  ],
+  "frame_0237.jpg": [
+    {
+      "neighbor": "frame_0236.jpg",
+      "weight": 0.0164208367870226,
+      "distance": 0.0164208367870226,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0238.jpg",
+      "weight": 0.0382693862541201,
+      "distance": 0.029437989426246234,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0238.jpg": [
+    {
+      "neighbor": "frame_0237.jpg",
+      "weight": 0.0382693862541201,
+      "distance": 0.029437989426246234,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0239.jpg",
+      "weight": 0.044084433214623166,
+      "distance": 0.03391110247278705,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0239.jpg": [
+    {
+      "neighbor": "frame_0238.jpg",
+      "weight": 0.044084433214623166,
+      "distance": 0.03391110247278705,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0240.jpg",
+      "weight": 0.020759015701791755,
+      "distance": 0.015968473616762888,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0240.jpg": [
+    {
+      "neighbor": "frame_0239.jpg",
+      "weight": 0.020759015701791755,
+      "distance": 0.015968473616762888,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0241.jpg",
+      "weight": 0.03465234324920244,
+      "distance": 0.026655648653232642,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0241.jpg": [
+    {
+      "neighbor": "frame_0240.jpg",
+      "weight": 0.03465234324920244,
+      "distance": 0.026655648653232642,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0242.jpg",
+      "weight": 0.02918894539407014,
+      "distance": 0.02245303491851549,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0242.jpg": [
+    {
+      "neighbor": "frame_0241.jpg",
+      "weight": 0.02918894539407014,
+      "distance": 0.02245303491851549,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0243.jpg",
+      "weight": 0.013215394335247656,
+      "distance": 0.010165687950190504,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0243.jpg": [
+    {
+      "neighbor": "frame_0242.jpg",
+      "weight": 0.013215394335247656,
+      "distance": 0.010165687950190504,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0244.jpg",
+      "weight": 0.013502217620641343,
+      "distance": 0.010386321246647186,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0244.jpg": [
+    {
+      "neighbor": "frame_0243.jpg",
+      "weight": 0.013502217620641343,
+      "distance": 0.010386321246647186,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0245.jpg",
+      "weight": 0.016648270736028987,
+      "distance": 0.012806362104637682,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0245.jpg": [
+    {
+      "neighbor": "frame_0244.jpg",
+      "weight": 0.016648270736028987,
+      "distance": 0.012806362104637682,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0246.jpg",
+      "weight": 0.0199833773591775,
+      "distance": 0.015371828737828845,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0246.jpg": [
+    {
+      "neighbor": "frame_0245.jpg",
+      "weight": 0.0199833773591775,
+      "distance": 0.015371828737828845,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0247.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0247.jpg": [
+    {
+      "neighbor": "frame_0246.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0248.jpg",
+      "weight": 0.015980784022506328,
+      "distance": 0.01229291078654333,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0248.jpg": [
+    {
+      "neighbor": "frame_0247.jpg",
+      "weight": 0.015980784022506328,
+      "distance": 0.01229291078654333,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0249.jpg",
+      "weight": 0.01569059712061362,
+      "distance": 0.012069690092779707,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0249.jpg": [
+    {
+      "neighbor": "frame_0248.jpg",
+      "weight": 0.01569059712061362,
+      "distance": 0.012069690092779707,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0250.jpg",
+      "weight": 0.019412547177101187,
+      "distance": 0.014932728597770143,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0250.jpg": [
+    {
+      "neighbor": "frame_0249.jpg",
+      "weight": 0.019412547177101187,
+      "distance": 0.014932728597770143,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0251.jpg",
+      "weight": 0.017876192485530778,
+      "distance": 0.013750917296562136,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0251.jpg": [
+    {
+      "neighbor": "frame_0250.jpg",
+      "weight": 0.017876192485530778,
+      "distance": 0.013750917296562136,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0252.jpg",
+      "weight": 0.033464540610225996,
+      "distance": 0.02574195431555846,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0252.jpg": [
+    {
+      "neighbor": "frame_0251.jpg",
+      "weight": 0.033464540610225996,
+      "distance": 0.02574195431555846,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0253.jpg",
+      "weight": 0.015015463925360016,
+      "distance": 0.01155035686566155,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0253.jpg": [
+    {
+      "neighbor": "frame_0252.jpg",
+      "weight": 0.015015463925360016,
+      "distance": 0.01155035686566155,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0254.jpg",
+      "weight": 0.03690440195244869,
+      "distance": 0.02838800150188361,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0254.jpg": [
+    {
+      "neighbor": "frame_0253.jpg",
+      "weight": 0.03690440195244869,
+      "distance": 0.02838800150188361,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0255.jpg",
+      "weight": 0.036197843400542544,
+      "distance": 0.027844494923494265,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0255.jpg": [
+    {
+      "neighbor": "frame_0254.jpg",
+      "weight": 0.036197843400542544,
+      "distance": 0.027844494923494265,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0256.jpg",
+      "weight": 0.02074880161147232,
+      "distance": 0.015960616624209476,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0256.jpg": [
+    {
+      "neighbor": "frame_0255.jpg",
+      "weight": 0.02074880161147232,
+      "distance": 0.015960616624209476,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0257.jpg",
+      "weight": 0.04135119757688267,
+      "distance": 0.03180861352067898,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0257.jpg": [
+    {
+      "neighbor": "frame_0256.jpg",
+      "weight": 0.04135119757688267,
+      "distance": 0.03180861352067898,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0258.jpg",
+      "weight": 0.022273834917343874,
+      "distance": 0.017133719167187596,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0258.jpg": [
+    {
+      "neighbor": "frame_0257.jpg",
+      "weight": 0.022273834917343874,
+      "distance": 0.017133719167187596,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0259.jpg",
+      "weight": 0.04261297337108346,
+      "distance": 0.032779210285448813,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0259.jpg": [
+    {
+      "neighbor": "frame_0258.jpg",
+      "weight": 0.04261297337108346,
+      "distance": 0.032779210285448813,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0260.jpg",
+      "weight": 0.023606716773191396,
+      "distance": 0.01815901290245492,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0260.jpg": [
+    {
+      "neighbor": "frame_0259.jpg",
+      "weight": 0.023606716773191396,
+      "distance": 0.01815901290245492,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0261.jpg",
+      "weight": 0.04806346920286809,
+      "distance": 0.036971899386821605,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0261.jpg": [
+    {
+      "neighbor": "frame_0260.jpg",
+      "weight": 0.04806346920286809,
+      "distance": 0.036971899386821605,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0262.jpg",
+      "weight": 0.025125387476788906,
+      "distance": 0.019327221135991467,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0262.jpg": [
+    {
+      "neighbor": "frame_0261.jpg",
+      "weight": 0.025125387476788906,
+      "distance": 0.019327221135991467,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0263.jpg",
+      "weight": 0.022210685822634243,
+      "distance": 0.01708514294048788,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0263.jpg": [
+    {
+      "neighbor": "frame_0262.jpg",
+      "weight": 0.022210685822634243,
+      "distance": 0.01708514294048788,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0264.jpg",
+      "weight": 0.014623957038969102,
+      "distance": 0.011249197722283924,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0264.jpg": [
+    {
+      "neighbor": "frame_0263.jpg",
+      "weight": 0.014623957038969102,
+      "distance": 0.011249197722283924,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0265.jpg",
+      "weight": 0.018112010876124126,
+      "distance": 0.013932316058557019,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0265.jpg": [
+    {
+      "neighbor": "frame_0264.jpg",
+      "weight": 0.018112010876124126,
+      "distance": 0.013932316058557019,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0266.jpg",
+      "weight": 0.01367690802098209,
+      "distance": 0.01052069847767853,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0266.jpg": [
+    {
+      "neighbor": "frame_0265.jpg",
+      "weight": 0.01367690802098209,
+      "distance": 0.01052069847767853,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0267.jpg",
+      "weight": 0.043581200294727104,
+      "distance": 0.03352400022671315,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0267.jpg": [
+    {
+      "neighbor": "frame_0266.jpg",
+      "weight": 0.043581200294727104,
+      "distance": 0.03352400022671315,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0268.jpg",
+      "weight": 0.021077498728127864,
+      "distance": 0.016213460560098356,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0268.jpg": [
+    {
+      "neighbor": "frame_0267.jpg",
+      "weight": 0.021077498728127864,
+      "distance": 0.016213460560098356,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0269.jpg",
+      "weight": 0.044293672089200514,
+      "distance": 0.034072055453231165,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0269.jpg": [
+    {
+      "neighbor": "frame_0268.jpg",
+      "weight": 0.044293672089200514,
+      "distance": 0.034072055453231165,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0270.jpg",
+      "weight": 0.022698036293813156,
+      "distance": 0.01746002791831781,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0270.jpg": [
+    {
+      "neighbor": "frame_0269.jpg",
+      "weight": 0.022698036293813156,
+      "distance": 0.01746002791831781,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0271.jpg",
+      "weight": 0.03673501610252834,
+      "distance": 0.02825770469425257,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0271.jpg": [
+    {
+      "neighbor": "frame_0270.jpg",
+      "weight": 0.03673501610252834,
+      "distance": 0.02825770469425257,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0272.jpg",
+      "weight": 0.017423903370367325,
+      "distance": 0.01340300259259025,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0272.jpg": [
+    {
+      "neighbor": "frame_0271.jpg",
+      "weight": 0.017423903370367325,
+      "distance": 0.01340300259259025,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0273.jpg",
+      "weight": 0.016479255114753275,
+      "distance": 0.01267635008827175,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0273.jpg": [
+    {
+      "neighbor": "frame_0272.jpg",
+      "weight": 0.016479255114753275,
+      "distance": 0.01267635008827175,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0275.jpg",
+      "weight": 0.015487298373040905,
+      "distance": 0.011913306440800697,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0275.jpg": [
+    {
+      "neighbor": "frame_0273.jpg",
+      "weight": 0.015487298373040905,
+      "distance": 0.011913306440800697,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0274.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0274.jpg": [
+    {
+      "neighbor": "frame_0275.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0276.jpg",
+      "weight": 0.019562241720954894,
+      "distance": 0.01504787824688838,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0276.jpg": [
+    {
+      "neighbor": "frame_0274.jpg",
+      "weight": 0.019562241720954894,
+      "distance": 0.01504787824688838,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0277.jpg",
+      "weight": 0.014103745550133715,
+      "distance": 0.010849035038564396,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0277.jpg": [
+    {
+      "neighbor": "frame_0276.jpg",
+      "weight": 0.014103745550133715,
+      "distance": 0.010849035038564396,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0278.jpg",
+      "weight": 0.01700636455444923,
+      "distance": 0.013081818888037867,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0278.jpg": [
+    {
+      "neighbor": "frame_0277.jpg",
+      "weight": 0.01700636455444923,
+      "distance": 0.013081818888037867,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0279.jpg",
+      "weight": 0.03717465209803789,
+      "distance": 0.028595886229259918,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0279.jpg": [
+    {
+      "neighbor": "frame_0278.jpg",
+      "weight": 0.03717465209803789,
+      "distance": 0.028595886229259918,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0280.jpg",
+      "weight": 0.01808050046407126,
+      "distance": 0.013908077280054814,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0280.jpg": [
+    {
+      "neighbor": "frame_0279.jpg",
+      "weight": 0.01808050046407126,
+      "distance": 0.013908077280054814,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0281.jpg",
+      "weight": 0.017352595125033916,
+      "distance": 0.013348150096179935,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0281.jpg": [
+    {
+      "neighbor": "frame_0280.jpg",
+      "weight": 0.017352595125033916,
+      "distance": 0.013348150096179935,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0282.jpg",
+      "weight": 0.01993734172272575,
+      "distance": 0.01172784807219162,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0282.jpg": [
+    {
+      "neighbor": "frame_0281.jpg",
+      "weight": 0.01993734172272575,
+      "distance": 0.01172784807219162,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0283.jpg",
+      "weight": 0.017448097788798307,
+      "distance": 0.013421613683691005,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0283.jpg": [
+    {
+      "neighbor": "frame_0282.jpg",
+      "weight": 0.017448097788798307,
+      "distance": 0.013421613683691005,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0284.jpg",
+      "weight": 0.03457361752744638,
+      "distance": 0.026595090405727984,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0284.jpg": [
+    {
+      "neighbor": "frame_0283.jpg",
+      "weight": 0.03457361752744638,
+      "distance": 0.026595090405727984,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0285.jpg",
+      "weight": 0.017138359919933913,
+      "distance": 0.013183353784564549,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0285.jpg": [
+    {
+      "neighbor": "frame_0284.jpg",
+      "weight": 0.017138359919933913,
+      "distance": 0.013183353784564549,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0286.jpg",
+      "weight": 0.03173535641065375,
+      "distance": 0.024411812623579807,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0286.jpg": [
+    {
+      "neighbor": "frame_0285.jpg",
+      "weight": 0.03173535641065375,
+      "distance": 0.024411812623579807,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0287.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0287.jpg": [
+    {
+      "neighbor": "frame_0286.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0288.jpg",
+      "weight": 0.014349299984323476,
+      "distance": 0.014349299984323476,
+      "safety": "safe"
+    }
+  ],
+  "frame_0288.jpg": [
+    {
+      "neighbor": "frame_0287.jpg",
+      "weight": 0.014349299984323476,
+      "distance": 0.014349299984323476,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0289.jpg",
+      "weight": 0.028739280755786818,
+      "distance": 0.028739280755786818,
+      "safety": "safe"
+    }
+  ],
+  "frame_0289.jpg": [
+    {
+      "neighbor": "frame_0288.jpg",
+      "weight": 0.028739280755786818,
+      "distance": 0.028739280755786818,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0290.jpg",
+      "weight": 0.022404449096753074,
+      "distance": 0.01723419161288698,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0290.jpg": [
+    {
+      "neighbor": "frame_0289.jpg",
+      "weight": 0.022404449096753074,
+      "distance": 0.01723419161288698,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0291.jpg",
+      "weight": 0.04550838923460546,
+      "distance": 0.03500645325738882,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0291.jpg": [
+    {
+      "neighbor": "frame_0290.jpg",
+      "weight": 0.04550838923460546,
+      "distance": 0.03500645325738882,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0292.jpg",
+      "weight": 0.023541585484366252,
+      "distance": 0.018108911911050962,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0292.jpg": [
+    {
+      "neighbor": "frame_0291.jpg",
+      "weight": 0.023541585484366252,
+      "distance": 0.018108911911050962,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0293.jpg",
+      "weight": 0.04564055739247472,
+      "distance": 0.035108121071134396,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0293.jpg": [
+    {
+      "neighbor": "frame_0292.jpg",
+      "weight": 0.04564055739247472,
+      "distance": 0.035108121071134396,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0294.jpg",
+      "weight": 0.014075848115921809,
+      "distance": 0.010827575473786006,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0294.jpg": [
+    {
+      "neighbor": "frame_0293.jpg",
+      "weight": 0.014075848115921809,
+      "distance": 0.010827575473786006,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0295.jpg",
+      "weight": 0.016595158189777273,
+      "distance": 0.012765506299828672,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0295.jpg": [
+    {
+      "neighbor": "frame_0294.jpg",
+      "weight": 0.016595158189777273,
+      "distance": 0.012765506299828672,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0296.jpg",
+      "weight": 0.016793137869726964,
+      "distance": 0.012917798361328434,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0296.jpg": [
+    {
+      "neighbor": "frame_0295.jpg",
+      "weight": 0.016793137869726964,
+      "distance": 0.012917798361328434,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0297.jpg",
+      "weight": 0.045030725789922496,
+      "distance": 0.03463901983840192,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0297.jpg": [
+    {
+      "neighbor": "frame_0296.jpg",
+      "weight": 0.045030725789922496,
+      "distance": 0.03463901983840192,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0298.jpg",
+      "weight": 0.024981715062144253,
+      "distance": 0.01921670389395712,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0298.jpg": [
+    {
+      "neighbor": "frame_0297.jpg",
+      "weight": 0.024981715062144253,
+      "distance": 0.01921670389395712,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0299.jpg",
+      "weight": 0.04019270336204983,
+      "distance": 0.04019270336204983,
+      "safety": "safe"
+    }
+  ],
+  "frame_0299.jpg": [
+    {
+      "neighbor": "frame_0298.jpg",
+      "weight": 0.04019270336204983,
+      "distance": 0.04019270336204983,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0300.jpg",
+      "weight": 0.013162366174291168,
+      "distance": 0.010124897057147052,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0300.jpg": [
+    {
+      "neighbor": "frame_0299.jpg",
+      "weight": 0.013162366174291168,
+      "distance": 0.010124897057147052,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0301.jpg",
+      "weight": 0.018230331569669123,
+      "distance": 0.014023331976668557,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0301.jpg": [
+    {
+      "neighbor": "frame_0300.jpg",
+      "weight": 0.018230331569669123,
+      "distance": 0.014023331976668557,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0302.jpg",
+      "weight": 0.018446621692038864,
+      "distance": 0.01418970899387605,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0302.jpg": [
+    {
+      "neighbor": "frame_0301.jpg",
+      "weight": 0.018446621692038864,
+      "distance": 0.01418970899387605,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0303.jpg",
+      "weight": 0.017967623144588704,
+      "distance": 0.01382124857276054,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0303.jpg": [
+    {
+      "neighbor": "frame_0302.jpg",
+      "weight": 0.017967623144588704,
+      "distance": 0.01382124857276054,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0304.jpg",
+      "weight": 0.03735457431804511,
+      "distance": 0.02873428793695778,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0304.jpg": [
+    {
+      "neighbor": "frame_0303.jpg",
+      "weight": 0.03735457431804511,
+      "distance": 0.02873428793695778,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0305.jpg",
+      "weight": 0.04450783907999191,
+      "distance": 0.034236799292301466,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0305.jpg": [
+    {
+      "neighbor": "frame_0304.jpg",
+      "weight": 0.04450783907999191,
+      "distance": 0.034236799292301466,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0306.jpg",
+      "weight": 0.03943383120799063,
+      "distance": 0.030333716313838945,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0306.jpg": [
+    {
+      "neighbor": "frame_0305.jpg",
+      "weight": 0.03943383120799063,
+      "distance": 0.030333716313838945,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0337.jpg",
+      "weight": 1.3449077487125187,
+      "distance": 1.3449077487125187,
+      "safety": "safe"
+    }
+  ],
+  "frame_0337.jpg": [
+    {
+      "neighbor": "frame_0306.jpg",
+      "weight": 1.3449077487125187,
+      "distance": 1.3449077487125187,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0338.jpg",
+      "weight": 0.0008662206562413292,
+      "distance": 0.0008662206562413292,
+      "safety": "safe"
+    }
+  ],
+  "frame_0338.jpg": [
+    {
+      "neighbor": "frame_0337.jpg",
+      "weight": 0.0008662206562413292,
+      "distance": 0.0008662206562413292,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0339.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0339.jpg": [
+    {
+      "neighbor": "frame_0338.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0340.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0340.jpg": [
+    {
+      "neighbor": "frame_0339.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0341.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0341.jpg": [
+    {
+      "neighbor": "frame_0340.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0346.jpg",
+      "weight": 0.01508815545605489,
+      "distance": 0.01160627342773453,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0346.jpg": [
+    {
+      "neighbor": "frame_0341.jpg",
+      "weight": 0.01508815545605489,
+      "distance": 0.01160627342773453,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0345.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0345.jpg": [
+    {
+      "neighbor": "frame_0346.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0342.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0342.jpg": [
+    {
+      "neighbor": "frame_0345.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0343.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0343.jpg": [
+    {
+      "neighbor": "frame_0342.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0344.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    }
+  ],
+  "frame_0344.jpg": [
+    {
+      "neighbor": "frame_0343.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0347.jpg",
+      "weight": 0.016355976805016194,
+      "distance": 0.012581520619243227,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0347.jpg": [
+    {
+      "neighbor": "frame_0344.jpg",
+      "weight": 0.016355976805016194,
+      "distance": 0.012581520619243227,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0348.jpg",
+      "weight": 0.023974503616289906,
+      "distance": 0.01844192585868454,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0348.jpg": [
+    {
+      "neighbor": "frame_0347.jpg",
+      "weight": 0.023974503616289906,
+      "distance": 0.01844192585868454,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0349.jpg",
+      "weight": 0.04875236662140848,
+      "distance": 0.03750182047800652,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0349.jpg": [
+    {
+      "neighbor": "frame_0348.jpg",
+      "weight": 0.04875236662140848,
+      "distance": 0.03750182047800652,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0350.jpg",
+      "weight": 0.05320662434877941,
+      "distance": 0.04092817257598416,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0350.jpg": [
+    {
+      "neighbor": "frame_0349.jpg",
+      "weight": 0.05320662434877941,
+      "distance": 0.04092817257598416,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0351.jpg",
+      "weight": 0.04129752902047197,
+      "distance": 0.04129752902047197,
+      "safety": "safe"
+    }
+  ],
+  "frame_0351.jpg": [
+    {
+      "neighbor": "frame_0350.jpg",
+      "weight": 0.04129752902047197,
+      "distance": 0.04129752902047197,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0352.jpg",
+      "weight": 0.04012312461281981,
+      "distance": 0.04012312461281981,
+      "safety": "safe"
+    }
+  ],
+  "frame_0352.jpg": [
+    {
+      "neighbor": "frame_0351.jpg",
+      "weight": 0.04012312461281981,
+      "distance": 0.04012312461281981,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0353.jpg",
+      "weight": 0.04043017232628383,
+      "distance": 0.04043017232628383,
+      "safety": "safe"
+    }
+  ],
+  "frame_0353.jpg": [
+    {
+      "neighbor": "frame_0352.jpg",
+      "weight": 0.04043017232628383,
+      "distance": 0.04043017232628383,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0354.jpg",
+      "weight": 0.04198795988247985,
+      "distance": 0.04198795988247985,
+      "safety": "safe"
+    }
+  ],
+  "frame_0354.jpg": [
+    {
+      "neighbor": "frame_0353.jpg",
+      "weight": 0.04198795988247985,
+      "distance": 0.04198795988247985,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0355.jpg",
+      "weight": 0.04344089425704621,
+      "distance": 0.04344089425704621,
+      "safety": "safe"
+    }
+  ],
+  "frame_0355.jpg": [
+    {
+      "neighbor": "frame_0354.jpg",
+      "weight": 0.04344089425704621,
+      "distance": 0.04344089425704621,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0356.jpg",
+      "weight": 0.04259344768448907,
+      "distance": 0.04259344768448907,
+      "safety": "safe"
+    }
+  ],
+  "frame_0356.jpg": [
+    {
+      "neighbor": "frame_0355.jpg",
+      "weight": 0.04259344768448907,
+      "distance": 0.04259344768448907,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0357.jpg",
+      "weight": 0.04505866556127569,
+      "distance": 0.04505866556127569,
+      "safety": "safe"
+    }
+  ],
+  "frame_0357.jpg": [
+    {
+      "neighbor": "frame_0356.jpg",
+      "weight": 0.04505866556127569,
+      "distance": 0.04505866556127569,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0358.jpg",
+      "weight": 0.08740248435302013,
+      "distance": 0.051413226090011845,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0358.jpg": [
+    {
+      "neighbor": "frame_0357.jpg",
+      "weight": 0.08740248435302013,
+      "distance": 0.051413226090011845,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0359.jpg",
+      "weight": 0.08941499802003397,
+      "distance": 0.05259705765884352,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0359.jpg": [
+    {
+      "neighbor": "frame_0358.jpg",
+      "weight": 0.08941499802003397,
+      "distance": 0.05259705765884352,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0360.jpg",
+      "weight": 0.08202006005234012,
+      "distance": 0.048247094148435365,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0360.jpg": [
+    {
+      "neighbor": "frame_0359.jpg",
+      "weight": 0.08202006005234012,
+      "distance": 0.048247094148435365,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0361.jpg",
+      "weight": 0.06268580864084236,
+      "distance": 0.03687400508284845,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0361.jpg": [
+    {
+      "neighbor": "frame_0360.jpg",
+      "weight": 0.06268580864084236,
+      "distance": 0.03687400508284845,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0362.jpg",
+      "weight": 0.05571884403164797,
+      "distance": 0.03277579060685175,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0362.jpg": [
+    {
+      "neighbor": "frame_0361.jpg",
+      "weight": 0.05571884403164797,
+      "distance": 0.03277579060685175,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0363.jpg",
+      "weight": 0.06792731169452022,
+      "distance": 0.03995724217324719,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0363.jpg": [
+    {
+      "neighbor": "frame_0362.jpg",
+      "weight": 0.06792731169452022,
+      "distance": 0.03995724217324719,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0364.jpg",
+      "weight": 0.0657680844404103,
+      "distance": 0.038687108494358996,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0364.jpg": [
+    {
+      "neighbor": "frame_0363.jpg",
+      "weight": 0.0657680844404103,
+      "distance": 0.038687108494358996,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0365.jpg",
+      "weight": 0.05848722377453054,
+      "distance": 0.034404249279135615,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0365.jpg": [
+    {
+      "neighbor": "frame_0364.jpg",
+      "weight": 0.05848722377453054,
+      "distance": 0.034404249279135615,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0366.jpg",
+      "weight": 0.057501583729336773,
+      "distance": 0.033824461017256925,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0366.jpg": [
+    {
+      "neighbor": "frame_0365.jpg",
+      "weight": 0.057501583729336773,
+      "distance": 0.033824461017256925,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0367.jpg",
+      "weight": 0.017875248411333228,
+      "distance": 0.010514852006666605,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0367.jpg": [
+    {
+      "neighbor": "frame_0366.jpg",
+      "weight": 0.017875248411333228,
+      "distance": 0.010514852006666605,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0368.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0368.jpg": [
+    {
+      "neighbor": "frame_0367.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0369.jpg",
+      "weight": 0.013138080382978836,
+      "distance": 0.010106215679214488,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0369.jpg": [
+    {
+      "neighbor": "frame_0368.jpg",
+      "weight": 0.013138080382978836,
+      "distance": 0.010106215679214488,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0371.jpg",
+      "weight": 0.014588385555709467,
+      "distance": 0.011221835042853436,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0371.jpg": [
+    {
+      "neighbor": "frame_0369.jpg",
+      "weight": 0.014588385555709467,
+      "distance": 0.011221835042853436,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0370.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0370.jpg": [
+    {
+      "neighbor": "frame_0371.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0372.jpg",
+      "weight": 0.018677781771390196,
+      "distance": 0.014367524439530918,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0372.jpg": [
+    {
+      "neighbor": "frame_0370.jpg",
+      "weight": 0.018677781771390196,
+      "distance": 0.014367524439530918,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0373.jpg",
+      "weight": 0.03831820006459025,
+      "distance": 0.02947553851122327,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0373.jpg": [
+    {
+      "neighbor": "frame_0372.jpg",
+      "weight": 0.03831820006459025,
+      "distance": 0.02947553851122327,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0374.jpg",
+      "weight": 0.02524702628678956,
+      "distance": 0.019420789451376583,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0374.jpg": [
+    {
+      "neighbor": "frame_0373.jpg",
+      "weight": 0.02524702628678956,
+      "distance": 0.019420789451376583,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0375.jpg",
+      "weight": 0.021464613206439245,
+      "distance": 0.016511240928030187,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0375.jpg": [
+    {
+      "neighbor": "frame_0374.jpg",
+      "weight": 0.021464613206439245,
+      "distance": 0.016511240928030187,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0376.jpg",
+      "weight": 0.024989088200002365,
+      "distance": 0.019222375538463357,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0376.jpg": [
+    {
+      "neighbor": "frame_0375.jpg",
+      "weight": 0.024989088200002365,
+      "distance": 0.019222375538463357,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0377.jpg",
+      "weight": 0.02015336249627344,
+      "distance": 0.015502586535594953,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0377.jpg": [
+    {
+      "neighbor": "frame_0376.jpg",
+      "weight": 0.02015336249627344,
+      "distance": 0.015502586535594953,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0378.jpg",
+      "weight": 0.04585488625405829,
+      "distance": 0.035272989426198685,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0378.jpg": [
+    {
+      "neighbor": "frame_0377.jpg",
+      "weight": 0.04585488625405829,
+      "distance": 0.035272989426198685,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0379.jpg",
+      "weight": 0.04934377241335004,
+      "distance": 0.03795674801026926,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0379.jpg": [
+    {
+      "neighbor": "frame_0378.jpg",
+      "weight": 0.04934377241335004,
+      "distance": 0.03795674801026926,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0380.jpg",
+      "weight": 0.05460829501969321,
+      "distance": 0.04200638078437939,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0380.jpg": [
+    {
+      "neighbor": "frame_0379.jpg",
+      "weight": 0.05460829501969321,
+      "distance": 0.04200638078437939,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0381.jpg",
+      "weight": 0.05686333280773278,
+      "distance": 0.04374102523671752,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0381.jpg": [
+    {
+      "neighbor": "frame_0380.jpg",
+      "weight": 0.05686333280773278,
+      "distance": 0.04374102523671752,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0382.jpg",
+      "weight": 0.05769048956194909,
+      "distance": 0.04437729966303776,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0382.jpg": [
+    {
+      "neighbor": "frame_0381.jpg",
+      "weight": 0.05769048956194909,
+      "distance": 0.04437729966303776,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0383.jpg",
+      "weight": 0.0367885200565096,
+      "distance": 0.02829886158193046,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0383.jpg": [
+    {
+      "neighbor": "frame_0382.jpg",
+      "weight": 0.0367885200565096,
+      "distance": 0.02829886158193046,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0384.jpg",
+      "weight": 0.053361674491976645,
+      "distance": 0.04104744191690511,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0384.jpg": [
+    {
+      "neighbor": "frame_0383.jpg",
+      "weight": 0.053361674491976645,
+      "distance": 0.04104744191690511,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0385.jpg",
+      "weight": 0.05086251085693933,
+      "distance": 0.03912500835149179,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0385.jpg": [
+    {
+      "neighbor": "frame_0384.jpg",
+      "weight": 0.05086251085693933,
+      "distance": 0.03912500835149179,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0386.jpg",
+      "weight": 0.05351931963642396,
+      "distance": 0.041168707412633815,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0386.jpg": [
+    {
+      "neighbor": "frame_0385.jpg",
+      "weight": 0.05351931963642396,
+      "distance": 0.041168707412633815,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0387.jpg",
+      "weight": 0.051785252752764604,
+      "distance": 0.039834809809818926,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0387.jpg": [
+    {
+      "neighbor": "frame_0386.jpg",
+      "weight": 0.051785252752764604,
+      "distance": 0.039834809809818926,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0388.jpg",
+      "weight": 0.036711588298301207,
+      "distance": 0.02823968330638554,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0388.jpg": [
+    {
+      "neighbor": "frame_0387.jpg",
+      "weight": 0.036711588298301207,
+      "distance": 0.02823968330638554,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0389.jpg",
+      "weight": 0.019015701028099432,
+      "distance": 0.014627462329307254,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0389.jpg": [
+    {
+      "neighbor": "frame_0388.jpg",
+      "weight": 0.019015701028099432,
+      "distance": 0.014627462329307254,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0390.jpg",
+      "weight": 0.022786475402612295,
+      "distance": 0.017528058002009458,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0390.jpg": [
+    {
+      "neighbor": "frame_0389.jpg",
+      "weight": 0.022786475402612295,
+      "distance": 0.017528058002009458,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0391.jpg",
+      "weight": 0.025816797642844346,
+      "distance": 0.019859075109880265,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0391.jpg": [
+    {
+      "neighbor": "frame_0390.jpg",
+      "weight": 0.025816797642844346,
+      "distance": 0.019859075109880265,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0392.jpg",
+      "weight": 0.039948647767815273,
+      "distance": 0.030729729052165592,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0392.jpg": [
+    {
+      "neighbor": "frame_0391.jpg",
+      "weight": 0.039948647767815273,
+      "distance": 0.030729729052165592,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0393.jpg",
+      "weight": 0.06184785043561535,
+      "distance": 0.04757526956585796,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0393.jpg": [
+    {
+      "neighbor": "frame_0392.jpg",
+      "weight": 0.06184785043561535,
+      "distance": 0.04757526956585796,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0394.jpg",
+      "weight": 0.02183371765845536,
+      "distance": 0.016795167429581044,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0394.jpg": [
+    {
+      "neighbor": "frame_0393.jpg",
+      "weight": 0.02183371765845536,
+      "distance": 0.016795167429581044,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0395.jpg",
+      "weight": 0.017967376077351955,
+      "distance": 0.013821058521039965,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0395.jpg": [
+    {
+      "neighbor": "frame_0394.jpg",
+      "weight": 0.017967376077351955,
+      "distance": 0.013821058521039965,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0396.jpg",
+      "weight": 0.02091534652569658,
+      "distance": 0.016088728096689677,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0396.jpg": [
+    {
+      "neighbor": "frame_0395.jpg",
+      "weight": 0.02091534652569658,
+      "distance": 0.016088728096689677,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0397.jpg",
+      "weight": 0.03670058697992972,
+      "distance": 0.028231220753792093,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0397.jpg": [
+    {
+      "neighbor": "frame_0396.jpg",
+      "weight": 0.03670058697992972,
+      "distance": 0.028231220753792093,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0398.jpg",
+      "weight": 0.044298548100142436,
+      "distance": 0.034075806230878795,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0398.jpg": [
+    {
+      "neighbor": "frame_0397.jpg",
+      "weight": 0.044298548100142436,
+      "distance": 0.034075806230878795,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0399.jpg",
+      "weight": 0.021065447489271437,
+      "distance": 0.016204190376362643,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0399.jpg": [
+    {
+      "neighbor": "frame_0398.jpg",
+      "weight": 0.021065447489271437,
+      "distance": 0.016204190376362643,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0400.jpg",
+      "weight": 0.01505643188874226,
+      "distance": 0.011581870683647893,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0400.jpg": [
+    {
+      "neighbor": "frame_0399.jpg",
+      "weight": 0.01505643188874226,
+      "distance": 0.011581870683647893,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0401.jpg",
+      "weight": 0.0273568962487303,
+      "distance": 0.021043766345177153,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0401.jpg": [
+    {
+      "neighbor": "frame_0400.jpg",
+      "weight": 0.0273568962487303,
+      "distance": 0.021043766345177153,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0402.jpg",
+      "weight": 0.034466586735049765,
+      "distance": 0.034466586735049765,
+      "safety": "safe"
+    }
+  ],
+  "frame_0402.jpg": [
+    {
+      "neighbor": "frame_0401.jpg",
+      "weight": 0.034466586735049765,
+      "distance": 0.034466586735049765,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0403.jpg",
+      "weight": 0.02127732344701183,
+      "distance": 0.02127732344701183,
+      "safety": "safe"
+    }
+  ],
+  "frame_0403.jpg": [
+    {
+      "neighbor": "frame_0402.jpg",
+      "weight": 0.02127732344701183,
+      "distance": 0.02127732344701183,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0404.jpg",
+      "weight": 0.0408066937505593,
+      "distance": 0.031389764423507154,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0404.jpg": [
+    {
+      "neighbor": "frame_0403.jpg",
+      "weight": 0.0408066937505593,
+      "distance": 0.031389764423507154,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0405.jpg",
+      "weight": 0.04251878199586086,
+      "distance": 0.032706755381431425,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0405.jpg": [
+    {
+      "neighbor": "frame_0404.jpg",
+      "weight": 0.04251878199586086,
+      "distance": 0.032706755381431425,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0406.jpg",
+      "weight": 0.015379397840424624,
+      "distance": 0.011830306031095864,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0406.jpg": [
+    {
+      "neighbor": "frame_0405.jpg",
+      "weight": 0.015379397840424624,
+      "distance": 0.011830306031095864,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0407.jpg",
+      "weight": 0.013246271637022829,
+      "distance": 0.010189439720786791,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0407.jpg": [
+    {
+      "neighbor": "frame_0406.jpg",
+      "weight": 0.013246271637022829,
+      "distance": 0.010189439720786791,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0408.jpg",
+      "weight": 0.04231481015120962,
+      "distance": 0.03254985396246894,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0408.jpg": [
+    {
+      "neighbor": "frame_0407.jpg",
+      "weight": 0.04231481015120962,
+      "distance": 0.03254985396246894,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0409.jpg",
+      "weight": 0.03245832003649791,
+      "distance": 0.02496793848961377,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0409.jpg": [
+    {
+      "neighbor": "frame_0408.jpg",
+      "weight": 0.03245832003649791,
+      "distance": 0.02496793848961377,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0410.jpg",
+      "weight": 0.047355028766926315,
+      "distance": 0.03642694520532793,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0410.jpg": [
+    {
+      "neighbor": "frame_0409.jpg",
+      "weight": 0.047355028766926315,
+      "distance": 0.03642694520532793,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0411.jpg",
+      "weight": 0.048281879914058995,
+      "distance": 0.037139907626199224,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0411.jpg": [
+    {
+      "neighbor": "frame_0410.jpg",
+      "weight": 0.048281879914058995,
+      "distance": 0.037139907626199224,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0412.jpg",
+      "weight": 0.02087444186803377,
+      "distance": 0.016057262975410592,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0412.jpg": [
+    {
+      "neighbor": "frame_0411.jpg",
+      "weight": 0.02087444186803377,
+      "distance": 0.016057262975410592,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0413.jpg",
+      "weight": 0.01571931263431602,
+      "distance": 0.01209177894947386,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0413.jpg": [
+    {
+      "neighbor": "frame_0412.jpg",
+      "weight": 0.01571931263431602,
+      "distance": 0.01209177894947386,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0414.jpg",
+      "weight": 0.01956094660365602,
+      "distance": 0.015046882002812323,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0414.jpg": [
+    {
+      "neighbor": "frame_0413.jpg",
+      "weight": 0.01956094660365602,
+      "distance": 0.015046882002812323,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0415.jpg",
+      "weight": 0.04239731820552268,
+      "distance": 0.032613321696555904,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0415.jpg": [
+    {
+      "neighbor": "frame_0414.jpg",
+      "weight": 0.04239731820552268,
+      "distance": 0.032613321696555904,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0416.jpg",
+      "weight": 0.04612678257481671,
+      "distance": 0.0354821404421667,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0416.jpg": [
+    {
+      "neighbor": "frame_0415.jpg",
+      "weight": 0.04612678257481671,
+      "distance": 0.0354821404421667,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0417.jpg",
+      "weight": 0.04361306161640822,
+      "distance": 0.03354850893569863,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0417.jpg": [
+    {
+      "neighbor": "frame_0416.jpg",
+      "weight": 0.04361306161640822,
+      "distance": 0.03354850893569863,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0418.jpg",
+      "weight": 0.06121788189572984,
+      "distance": 0.047090678381330645,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0418.jpg": [
+    {
+      "neighbor": "frame_0417.jpg",
+      "weight": 0.06121788189572984,
+      "distance": 0.047090678381330645,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0419.jpg",
+      "weight": 0.0531629487424091,
+      "distance": 0.04089457595569931,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0419.jpg": [
+    {
+      "neighbor": "frame_0418.jpg",
+      "weight": 0.0531629487424091,
+      "distance": 0.04089457595569931,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0420.jpg",
+      "weight": 0.016262019234680052,
+      "distance": 0.016262019234680052,
+      "safety": "safe"
+    }
+  ],
+  "frame_0420.jpg": [
+    {
+      "neighbor": "frame_0419.jpg",
+      "weight": 0.016262019234680052,
+      "distance": 0.016262019234680052,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0421.jpg",
+      "weight": 0.012289768335038212,
+      "distance": 0.012289768335038212,
+      "safety": "safe"
+    }
+  ],
+  "frame_0421.jpg": [
+    {
+      "neighbor": "frame_0420.jpg",
+      "weight": 0.012289768335038212,
+      "distance": 0.012289768335038212,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0422.jpg",
+      "weight": 0.018616844985015042,
+      "distance": 0.018616844985015042,
+      "safety": "safe"
+    }
+  ],
+  "frame_0422.jpg": [
+    {
+      "neighbor": "frame_0421.jpg",
+      "weight": 0.018616844985015042,
+      "distance": 0.018616844985015042,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0423.jpg",
+      "weight": 0.03518797978041708,
+      "distance": 0.03518797978041708,
+      "safety": "safe"
+    }
+  ],
+  "frame_0423.jpg": [
+    {
+      "neighbor": "frame_0422.jpg",
+      "weight": 0.03518797978041708,
+      "distance": 0.03518797978041708,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0424.jpg",
+      "weight": 0.02767590783919092,
+      "distance": 0.021289159876300708,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0424.jpg": [
+    {
+      "neighbor": "frame_0423.jpg",
+      "weight": 0.02767590783919092,
+      "distance": 0.021289159876300708,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0425.jpg",
+      "weight": 0.03953357001105916,
+      "distance": 0.030410438470045504,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0425.jpg": [
+    {
+      "neighbor": "frame_0424.jpg",
+      "weight": 0.03953357001105916,
+      "distance": 0.030410438470045504,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0426.jpg",
+      "weight": 0.013480584704995321,
+      "distance": 0.010369680542304093,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0426.jpg": [
+    {
+      "neighbor": "frame_0425.jpg",
+      "weight": 0.013480584704995321,
+      "distance": 0.010369680542304093,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0427.jpg",
+      "weight": 0.01552718991203074,
+      "distance": 0.011943992240023646,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0427.jpg": [
+    {
+      "neighbor": "frame_0426.jpg",
+      "weight": 0.01552718991203074,
+      "distance": 0.011943992240023646,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0428.jpg",
+      "weight": 0.018993522463108762,
+      "distance": 0.014610401894699046,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0428.jpg": [
+    {
+      "neighbor": "frame_0427.jpg",
+      "weight": 0.018993522463108762,
+      "distance": 0.014610401894699046,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0429.jpg",
+      "weight": 0.026570781265187325,
+      "distance": 0.02043906251168256,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0429.jpg": [
+    {
+      "neighbor": "frame_0428.jpg",
+      "weight": 0.026570781265187325,
+      "distance": 0.02043906251168256,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0430.jpg",
+      "weight": 0.044866993417155984,
+      "distance": 0.03451307185935076,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0430.jpg": [
+    {
+      "neighbor": "frame_0429.jpg",
+      "weight": 0.044866993417155984,
+      "distance": 0.03451307185935076,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0431.jpg",
+      "weight": 0.03412669295915059,
+      "distance": 0.026251302276269685,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0431.jpg": [
+    {
+      "neighbor": "frame_0430.jpg",
+      "weight": 0.03412669295915059,
+      "distance": 0.026251302276269685,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0432.jpg",
+      "weight": 0.04720257341437229,
+      "distance": 0.03630967185720945,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0432.jpg": [
+    {
+      "neighbor": "frame_0431.jpg",
+      "weight": 0.04720257341437229,
+      "distance": 0.03630967185720945,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0433.jpg",
+      "weight": 0.03877093032860072,
+      "distance": 0.02982379256046209,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0433.jpg": [
+    {
+      "neighbor": "frame_0432.jpg",
+      "weight": 0.03877093032860072,
+      "distance": 0.02982379256046209,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0434.jpg",
+      "weight": 0.017086410639666334,
+      "distance": 0.013143392799743333,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0434.jpg": [
+    {
+      "neighbor": "frame_0433.jpg",
+      "weight": 0.017086410639666334,
+      "distance": 0.013143392799743333,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0435.jpg",
+      "weight": 0.04123049507581436,
+      "distance": 0.03171576544293412,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0435.jpg": [
+    {
+      "neighbor": "frame_0434.jpg",
+      "weight": 0.04123049507581436,
+      "distance": 0.03171576544293412,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0436.jpg",
+      "weight": 0.031589967743997624,
+      "distance": 0.02429997518769048,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0436.jpg": [
+    {
+      "neighbor": "frame_0435.jpg",
+      "weight": 0.031589967743997624,
+      "distance": 0.02429997518769048,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0437.jpg",
+      "weight": 0.040821272592655306,
+      "distance": 0.03140097891742716,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0437.jpg": [
+    {
+      "neighbor": "frame_0436.jpg",
+      "weight": 0.040821272592655306,
+      "distance": 0.03140097891742716,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0438.jpg",
+      "weight": 0.030147278597768872,
+      "distance": 0.023190214305976054,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0438.jpg": [
+    {
+      "neighbor": "frame_0437.jpg",
+      "weight": 0.030147278597768872,
+      "distance": 0.023190214305976054,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0439.jpg",
+      "weight": 0.01808071099813452,
+      "distance": 0.013908239229334245,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0439.jpg": [
+    {
+      "neighbor": "frame_0438.jpg",
+      "weight": 0.01808071099813452,
+      "distance": 0.013908239229334245,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0440.jpg",
+      "weight": 0.022524290081631586,
+      "distance": 0.01732637698587045,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0440.jpg": [
+    {
+      "neighbor": "frame_0439.jpg",
+      "weight": 0.022524290081631586,
+      "distance": 0.01732637698587045,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0441.jpg",
+      "weight": 0.028602958022183267,
+      "distance": 0.022002275401679434,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0441.jpg": [
+    {
+      "neighbor": "frame_0440.jpg",
+      "weight": 0.028602958022183267,
+      "distance": 0.022002275401679434,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0442.jpg",
+      "weight": 0.051441760759072114,
+      "distance": 0.03957058519928624,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0442.jpg": [
+    {
+      "neighbor": "frame_0441.jpg",
+      "weight": 0.051441760759072114,
+      "distance": 0.03957058519928624,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0443.jpg",
+      "weight": 0.013449135817089954,
+      "distance": 0.010345489090069195,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0443.jpg": [
+    {
+      "neighbor": "frame_0442.jpg",
+      "weight": 0.013449135817089954,
+      "distance": 0.010345489090069195,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0444.jpg",
+      "weight": 0.018424350803344456,
+      "distance": 0.014172577541034195,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0444.jpg": [
+    {
+      "neighbor": "frame_0443.jpg",
+      "weight": 0.018424350803344456,
+      "distance": 0.014172577541034195,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0445.jpg",
+      "weight": 0.0176013466140293,
+      "distance": 0.013539497395407152,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0445.jpg": [
+    {
+      "neighbor": "frame_0444.jpg",
+      "weight": 0.0176013466140293,
+      "distance": 0.013539497395407152,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0446.jpg",
+      "weight": 0.046663189734460014,
+      "distance": 0.03589476133420001,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0446.jpg": [
+    {
+      "neighbor": "frame_0445.jpg",
+      "weight": 0.046663189734460014,
+      "distance": 0.03589476133420001,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0447.jpg",
+      "weight": 0.023401397174775223,
+      "distance": 0.018001074749827095,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0447.jpg": [
+    {
+      "neighbor": "frame_0446.jpg",
+      "weight": 0.023401397174775223,
+      "distance": 0.018001074749827095,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0448.jpg",
+      "weight": 0.015424080587974523,
+      "distance": 0.011864677375365017,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0448.jpg": [
+    {
+      "neighbor": "frame_0447.jpg",
+      "weight": 0.015424080587974523,
+      "distance": 0.011864677375365017,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0449.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0449.jpg": [
+    {
+      "neighbor": "frame_0448.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0450.jpg",
+      "weight": 0.017441317753828598,
+      "distance": 0.013416398272175844,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0450.jpg": [
+    {
+      "neighbor": "frame_0449.jpg",
+      "weight": 0.017441317753828598,
+      "distance": 0.013416398272175844,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0451.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0451.jpg": [
+    {
+      "neighbor": "frame_0450.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0452.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0452.jpg": [
+    {
+      "neighbor": "frame_0451.jpg",
+      "weight": 0.0,
+      "distance": 0.0,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0453.jpg",
+      "weight": 0.036210267770622126,
+      "distance": 0.027854052131247788,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0453.jpg": [
+    {
+      "neighbor": "frame_0452.jpg",
+      "weight": 0.036210267770622126,
+      "distance": 0.027854052131247788,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0454.jpg",
+      "weight": 0.019785220238755074,
+      "distance": 0.01521940018365775,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0454.jpg": [
+    {
+      "neighbor": "frame_0453.jpg",
+      "weight": 0.019785220238755074,
+      "distance": 0.01521940018365775,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0455.jpg",
+      "weight": 0.047032782698215876,
+      "distance": 0.036179063614012213,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0455.jpg": [
+    {
+      "neighbor": "frame_0454.jpg",
+      "weight": 0.047032782698215876,
+      "distance": 0.036179063614012213,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0456.jpg",
+      "weight": 0.02664840980724966,
+      "distance": 0.02049877677480743,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0456.jpg": [
+    {
+      "neighbor": "frame_0455.jpg",
+      "weight": 0.02664840980724966,
+      "distance": 0.02049877677480743,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0457.jpg",
+      "weight": 0.041933080553356566,
+      "distance": 0.03225621581027428,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0457.jpg": [
+    {
+      "neighbor": "frame_0456.jpg",
+      "weight": 0.041933080553356566,
+      "distance": 0.03225621581027428,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0458.jpg",
+      "weight": 0.044976928058548825,
+      "distance": 0.03459763696811448,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0458.jpg": [
+    {
+      "neighbor": "frame_0457.jpg",
+      "weight": 0.044976928058548825,
+      "distance": 0.03459763696811448,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0459.jpg",
+      "weight": 0.04632647468994423,
+      "distance": 0.03563574976149556,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0459.jpg": [
+    {
+      "neighbor": "frame_0458.jpg",
+      "weight": 0.04632647468994423,
+      "distance": 0.03563574976149556,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0460.jpg",
+      "weight": 0.0604223287148921,
+      "distance": 0.04647871439607085,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0460.jpg": [
+    {
+      "neighbor": "frame_0459.jpg",
+      "weight": 0.0604223287148921,
+      "distance": 0.04647871439607085,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0461.jpg",
+      "weight": 0.04081287942290843,
+      "distance": 0.03139452263300648,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0461.jpg": [
+    {
+      "neighbor": "frame_0460.jpg",
+      "weight": 0.04081287942290843,
+      "distance": 0.03139452263300648,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0462.jpg",
+      "weight": 0.026719625881472375,
+      "distance": 0.026719625881472375,
+      "safety": "safe"
+    }
+  ],
+  "frame_0462.jpg": [
+    {
+      "neighbor": "frame_0461.jpg",
+      "weight": 0.026719625881472375,
+      "distance": 0.026719625881472375,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0463.jpg",
+      "weight": 0.014403874348436025,
+      "distance": 0.014403874348436025,
+      "safety": "safe"
+    }
+  ],
+  "frame_0463.jpg": [
+    {
+      "neighbor": "frame_0462.jpg",
+      "weight": 0.014403874348436025,
+      "distance": 0.014403874348436025,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0464.jpg",
+      "weight": 0.02782661253810087,
+      "distance": 0.01636859561064757,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0464.jpg": [
+    {
+      "neighbor": "frame_0463.jpg",
+      "weight": 0.02782661253810087,
+      "distance": 0.01636859561064757,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0465.jpg",
+      "weight": 0.04210597255369957,
+      "distance": 0.032389209656691974,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0465.jpg": [
+    {
+      "neighbor": "frame_0464.jpg",
+      "weight": 0.04210597255369957,
+      "distance": 0.032389209656691974,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0466.jpg",
+      "weight": 0.04695351253070468,
+      "distance": 0.03611808656208052,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0466.jpg": [
+    {
+      "neighbor": "frame_0465.jpg",
+      "weight": 0.04695351253070468,
+      "distance": 0.03611808656208052,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0467.jpg",
+      "weight": 0.05153039420371804,
+      "distance": 0.0396387647720908,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0467.jpg": [
+    {
+      "neighbor": "frame_0466.jpg",
+      "weight": 0.05153039420371804,
+      "distance": 0.0396387647720908,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0468.jpg",
+      "weight": 0.01337502741443151,
+      "distance": 0.01337502741443151,
+      "safety": "safe"
+    }
+  ],
+  "frame_0468.jpg": [
+    {
+      "neighbor": "frame_0467.jpg",
+      "weight": 0.01337502741443151,
+      "distance": 0.01337502741443151,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0469.jpg",
+      "weight": 0.012262902032672869,
+      "distance": 0.012262902032672869,
+      "safety": "safe"
+    }
+  ],
+  "frame_0469.jpg": [
+    {
+      "neighbor": "frame_0468.jpg",
+      "weight": 0.012262902032672869,
+      "distance": 0.012262902032672869,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0470.jpg",
+      "weight": 0.04443782244193299,
+      "distance": 0.03418294033994845,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0470.jpg": [
+    {
+      "neighbor": "frame_0469.jpg",
+      "weight": 0.04443782244193299,
+      "distance": 0.03418294033994845,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0471.jpg",
+      "weight": 0.022466375167211707,
+      "distance": 0.022466375167211707,
+      "safety": "safe"
+    }
+  ],
+  "frame_0471.jpg": [
+    {
+      "neighbor": "frame_0470.jpg",
+      "weight": 0.022466375167211707,
+      "distance": 0.022466375167211707,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0472.jpg",
+      "weight": 0.0382563291221309,
+      "distance": 0.0382563291221309,
+      "safety": "safe"
+    }
+  ],
+  "frame_0472.jpg": [
+    {
+      "neighbor": "frame_0471.jpg",
+      "weight": 0.0382563291221309,
+      "distance": 0.0382563291221309,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0473.jpg",
+      "weight": 0.026078628491913655,
+      "distance": 0.026078628491913655,
+      "safety": "safe"
+    }
+  ],
+  "frame_0473.jpg": [
+    {
+      "neighbor": "frame_0472.jpg",
+      "weight": 0.026078628491913655,
+      "distance": 0.026078628491913655,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0474.jpg",
+      "weight": 0.02442895458475181,
+      "distance": 0.02442895458475181,
+      "safety": "safe"
+    }
+  ],
+  "frame_0474.jpg": [
+    {
+      "neighbor": "frame_0473.jpg",
+      "weight": 0.02442895458475181,
+      "distance": 0.02442895458475181,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0475.jpg",
+      "weight": 0.011037730410929363,
+      "distance": 0.011037730410929363,
+      "safety": "safe"
+    }
+  ],
+  "frame_0475.jpg": [
+    {
+      "neighbor": "frame_0474.jpg",
+      "weight": 0.011037730410929363,
+      "distance": 0.011037730410929363,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0476.jpg",
+      "weight": 0.01695046142263738,
+      "distance": 0.01695046142263738,
+      "safety": "safe"
+    }
+  ],
+  "frame_0476.jpg": [
+    {
+      "neighbor": "frame_0475.jpg",
+      "weight": 0.01695046142263738,
+      "distance": 0.01695046142263738,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0477.jpg",
+      "weight": 0.0271785350202323,
+      "distance": 0.0271785350202323,
+      "safety": "safe"
+    }
+  ],
+  "frame_0477.jpg": [
+    {
+      "neighbor": "frame_0476.jpg",
+      "weight": 0.0271785350202323,
+      "distance": 0.0271785350202323,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0478.jpg",
+      "weight": 0.014759770945799435,
+      "distance": 0.014759770945799435,
+      "safety": "safe"
+    }
+  ],
+  "frame_0478.jpg": [
+    {
+      "neighbor": "frame_0477.jpg",
+      "weight": 0.014759770945799435,
+      "distance": 0.014759770945799435,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0479.jpg",
+      "weight": 0.04002357030631524,
+      "distance": 0.030787361774088643,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0479.jpg": [
+    {
+      "neighbor": "frame_0478.jpg",
+      "weight": 0.04002357030631524,
+      "distance": 0.030787361774088643,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0480.jpg",
+      "weight": 0.013525963531119331,
+      "distance": 0.010404587331630254,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0480.jpg": [
+    {
+      "neighbor": "frame_0479.jpg",
+      "weight": 0.013525963531119331,
+      "distance": 0.010404587331630254,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0481.jpg",
+      "weight": 0.016549335869603034,
+      "distance": 0.012730258361233104,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0481.jpg": [
+    {
+      "neighbor": "frame_0480.jpg",
+      "weight": 0.016549335869603034,
+      "distance": 0.012730258361233104,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0482.jpg",
+      "weight": 1.0810735072896902,
+      "distance": 1.0810735072896902,
+      "safety": "safe"
+    }
+  ],
+  "frame_0482.jpg": [
+    {
+      "neighbor": "frame_0481.jpg",
+      "weight": 1.0810735072896902,
+      "distance": 1.0810735072896902,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0483.jpg",
+      "weight": 0.015190113329320687,
+      "distance": 0.015190113329320687,
+      "safety": "safe"
+    }
+  ],
+  "frame_0483.jpg": [
+    {
+      "neighbor": "frame_0482.jpg",
+      "weight": 0.015190113329320687,
+      "distance": 0.015190113329320687,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0484.jpg",
+      "weight": 0.020845264550332924,
+      "distance": 0.020845264550332924,
+      "safety": "safe"
+    }
+  ],
+  "frame_0484.jpg": [
+    {
+      "neighbor": "frame_0483.jpg",
+      "weight": 0.020845264550332924,
+      "distance": 0.020845264550332924,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0485.jpg",
+      "weight": 0.025621984328202025,
+      "distance": 0.019709218714001556,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0485.jpg": [
+    {
+      "neighbor": "frame_0484.jpg",
+      "weight": 0.025621984328202025,
+      "distance": 0.019709218714001556,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0486.jpg",
+      "weight": 0.026069104773211907,
+      "distance": 0.020053157517855313,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0486.jpg": [
+    {
+      "neighbor": "frame_0485.jpg",
+      "weight": 0.026069104773211907,
+      "distance": 0.020053157517855313,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0487.jpg",
+      "weight": 0.053076370406571524,
+      "distance": 0.04082797723582425,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0487.jpg": [
+    {
+      "neighbor": "frame_0486.jpg",
+      "weight": 0.053076370406571524,
+      "distance": 0.04082797723582425,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0488.jpg",
+      "weight": 0.06813431188939971,
+      "distance": 0.05241100914569208,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0488.jpg": [
+    {
+      "neighbor": "frame_0487.jpg",
+      "weight": 0.06813431188939971,
+      "distance": 0.05241100914569208,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0489.jpg",
+      "weight": 0.0385958642610042,
+      "distance": 0.029689126354618615,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0489.jpg": [
+    {
+      "neighbor": "frame_0488.jpg",
+      "weight": 0.0385958642610042,
+      "distance": 0.029689126354618615,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0490.jpg",
+      "weight": 0.016910828843442426,
+      "distance": 0.009947546378495545,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0490.jpg": [
+    {
+      "neighbor": "frame_0489.jpg",
+      "weight": 0.016910828843442426,
+      "distance": 0.009947546378495545,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0491.jpg",
+      "weight": 0.013217358671540797,
+      "distance": 0.010167198978108305,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0491.jpg": [
+    {
+      "neighbor": "frame_0490.jpg",
+      "weight": 0.013217358671540797,
+      "distance": 0.010167198978108305,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0492.jpg",
+      "weight": 0.010542671260409576,
+      "distance": 0.010542671260409576,
+      "safety": "safe"
+    }
+  ],
+  "frame_0492.jpg": [
+    {
+      "neighbor": "frame_0491.jpg",
+      "weight": 0.010542671260409576,
+      "distance": 0.010542671260409576,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0493.jpg",
+      "weight": 0.04000827233289172,
+      "distance": 0.0307755941022244,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0493.jpg": [
+    {
+      "neighbor": "frame_0492.jpg",
+      "weight": 0.04000827233289172,
+      "distance": 0.0307755941022244,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0494.jpg",
+      "weight": 0.02626416322457786,
+      "distance": 0.020203202480444507,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0494.jpg": [
+    {
+      "neighbor": "frame_0493.jpg",
+      "weight": 0.02626416322457786,
+      "distance": 0.020203202480444507,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0495.jpg",
+      "weight": 0.026327841704485756,
+      "distance": 0.020252185926527503,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0495.jpg": [
+    {
+      "neighbor": "frame_0494.jpg",
+      "weight": 0.026327841704485756,
+      "distance": 0.020252185926527503,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0496.jpg",
+      "weight": 0.03953766316794031,
+      "distance": 0.030413587052261777,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0496.jpg": [
+    {
+      "neighbor": "frame_0495.jpg",
+      "weight": 0.03953766316794031,
+      "distance": 0.030413587052261777,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0497.jpg",
+      "weight": 0.1028041153279472,
+      "distance": 0.06047300901643953,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0497.jpg": [
+    {
+      "neighbor": "frame_0496.jpg",
+      "weight": 0.1028041153279472,
+      "distance": 0.06047300901643953,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0498.jpg",
+      "weight": 0.03987083806572199,
+      "distance": 0.03066987543517076,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0498.jpg": [
+    {
+      "neighbor": "frame_0497.jpg",
+      "weight": 0.03987083806572199,
+      "distance": 0.03066987543517076,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0499.jpg",
+      "weight": 0.053106539578559125,
+      "distance": 0.04085118429119933,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0499.jpg": [
+    {
+      "neighbor": "frame_0498.jpg",
+      "weight": 0.053106539578559125,
+      "distance": 0.04085118429119933,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0500.jpg",
+      "weight": 0.02695434094054889,
+      "distance": 0.020734108415806838,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0500.jpg": [
+    {
+      "neighbor": "frame_0499.jpg",
+      "weight": 0.02695434094054889,
+      "distance": 0.020734108415806838,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0501.jpg",
+      "weight": 0.017904181209274835,
+      "distance": 0.010531871299573434,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0501.jpg": [
+    {
+      "neighbor": "frame_0500.jpg",
+      "weight": 0.017904181209274835,
+      "distance": 0.010531871299573434,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0502.jpg",
+      "weight": 0.052345735431566044,
+      "distance": 0.04026595033197388,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0502.jpg": [
+    {
+      "neighbor": "frame_0501.jpg",
+      "weight": 0.052345735431566044,
+      "distance": 0.04026595033197388,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0503.jpg",
+      "weight": 0.040362953302828505,
+      "distance": 0.03104842561756039,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0503.jpg": [
+    {
+      "neighbor": "frame_0502.jpg",
+      "weight": 0.040362953302828505,
+      "distance": 0.03104842561756039,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0504.jpg",
+      "weight": 0.05336281358216571,
+      "distance": 0.04104831814012747,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0504.jpg": [
+    {
+      "neighbor": "frame_0503.jpg",
+      "weight": 0.05336281358216571,
+      "distance": 0.04104831814012747,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0505.jpg",
+      "weight": 0.10623778869972021,
+      "distance": 0.0817213759228617,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0505.jpg": [
+    {
+      "neighbor": "frame_0504.jpg",
+      "weight": 0.10623778869972021,
+      "distance": 0.0817213759228617,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0506.jpg",
+      "weight": 0.039477679575985136,
+      "distance": 0.03036744582768087,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0506.jpg": [
+    {
+      "neighbor": "frame_0505.jpg",
+      "weight": 0.039477679575985136,
+      "distance": 0.03036744582768087,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0507.jpg",
+      "weight": 0.06601413510327528,
+      "distance": 0.05078010392559637,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0507.jpg": [
+    {
+      "neighbor": "frame_0506.jpg",
+      "weight": 0.06601413510327528,
+      "distance": 0.05078010392559637,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0508.jpg",
+      "weight": 0.013026950678840904,
+      "distance": 0.01002073129141608,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0508.jpg": [
+    {
+      "neighbor": "frame_0507.jpg",
+      "weight": 0.013026950678840904,
+      "distance": 0.01002073129141608,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0509.jpg",
+      "weight": 1.3409344900686717,
+      "distance": 1.3409344900686717,
+      "safety": "safe"
+    }
+  ],
+  "frame_0509.jpg": [
+    {
+      "neighbor": "frame_0508.jpg",
+      "weight": 1.3409344900686717,
+      "distance": 1.3409344900686717,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0510.jpg",
+      "weight": 0.01992247128641292,
+      "distance": 0.015324977912625323,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0510.jpg": [
+    {
+      "neighbor": "frame_0509.jpg",
+      "weight": 0.01992247128641292,
+      "distance": 0.015324977912625323,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0511.jpg",
+      "weight": 0.009128520898431209,
+      "distance": 0.009128520898431209,
+      "safety": "safe"
+    }
+  ],
+  "frame_0511.jpg": [
+    {
+      "neighbor": "frame_0510.jpg",
+      "weight": 0.009128520898431209,
+      "distance": 0.009128520898431209,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0512.jpg",
+      "weight": 0.03982695243714352,
+      "distance": 0.03063611725934117,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0512.jpg": [
+    {
+      "neighbor": "frame_0511.jpg",
+      "weight": 0.03982695243714352,
+      "distance": 0.03063611725934117,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0513.jpg",
+      "weight": 0.01656381637667772,
+      "distance": 0.009743421398045717,
+      "safety": "major_problem"
+    }
+  ],
+  "frame_0513.jpg": [
+    {
+      "neighbor": "frame_0512.jpg",
+      "weight": 0.01656381637667772,
+      "distance": 0.009743421398045717,
+      "safety": "major_problem"
+    },
+    {
+      "neighbor": "frame_0514.jpg",
+      "weight": 0.08422000472163327,
+      "distance": 0.06478461901664097,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0514.jpg": [
+    {
+      "neighbor": "frame_0513.jpg",
+      "weight": 0.08422000472163327,
+      "distance": 0.06478461901664097,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0515.jpg",
+      "weight": 0.045186259081756275,
+      "distance": 0.03475866083212021,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0515.jpg": [
+    {
+      "neighbor": "frame_0514.jpg",
+      "weight": 0.045186259081756275,
+      "distance": 0.03475866083212021,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0516.jpg",
+      "weight": 0.6397647450692873,
+      "distance": 0.4921267269763748,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0516.jpg": [
+    {
+      "neighbor": "frame_0515.jpg",
+      "weight": 0.6397647450692873,
+      "distance": 0.4921267269763748,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0517.jpg",
+      "weight": 0.016639327388521585,
+      "distance": 0.012799482606555066,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0517.jpg": [
+    {
+      "neighbor": "frame_0516.jpg",
+      "weight": 0.016639327388521585,
+      "distance": 0.012799482606555066,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0518.jpg",
+      "weight": 0.04458181978977615,
+      "distance": 0.03429370753059704,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0518.jpg": [
+    {
+      "neighbor": "frame_0517.jpg",
+      "weight": 0.04458181978977615,
+      "distance": 0.03429370753059704,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0519.jpg",
+      "weight": 0.02633607160898585,
+      "distance": 0.02025851662229681,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0519.jpg": [
+    {
+      "neighbor": "frame_0518.jpg",
+      "weight": 0.02633607160898585,
+      "distance": 0.02025851662229681,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0520.jpg",
+      "weight": 0.0769760550886032,
+      "distance": 0.0769760550886032,
+      "safety": "safe"
+    }
+  ],
+  "frame_0520.jpg": [
+    {
+      "neighbor": "frame_0519.jpg",
+      "weight": 0.0769760550886032,
+      "distance": 0.0769760550886032,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0521.jpg",
+      "weight": 0.0527595877927014,
+      "distance": 0.0527595877927014,
+      "safety": "safe"
+    }
+  ],
+  "frame_0521.jpg": [
+    {
+      "neighbor": "frame_0520.jpg",
+      "weight": 0.0527595877927014,
+      "distance": 0.0527595877927014,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0522.jpg",
+      "weight": 0.009923650130138682,
+      "distance": 0.009923650130138682,
+      "safety": "safe"
+    }
+  ],
+  "frame_0522.jpg": [
+    {
+      "neighbor": "frame_0521.jpg",
+      "weight": 0.009923650130138682,
+      "distance": 0.009923650130138682,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0523.jpg",
+      "weight": 0.03103341328862245,
+      "distance": 0.03103341328862245,
+      "safety": "safe"
+    }
+  ],
+  "frame_0523.jpg": [
+    {
+      "neighbor": "frame_0522.jpg",
+      "weight": 0.03103341328862245,
+      "distance": 0.03103341328862245,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0524.jpg",
+      "weight": 0.042593583426941015,
+      "distance": 0.03276429494380078,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0524.jpg": [
+    {
+      "neighbor": "frame_0523.jpg",
+      "weight": 0.042593583426941015,
+      "distance": 0.03276429494380078,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0525.jpg",
+      "weight": 0.02613805151351186,
+      "distance": 0.0201061934719322,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0525.jpg": [
+    {
+      "neighbor": "frame_0524.jpg",
+      "weight": 0.02613805151351186,
+      "distance": 0.0201061934719322,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0526.jpg",
+      "weight": 0.010677146263125388,
+      "distance": 0.010677146263125388,
+      "safety": "safe"
+    }
+  ],
+  "frame_0526.jpg": [
+    {
+      "neighbor": "frame_0525.jpg",
+      "weight": 0.010677146263125388,
+      "distance": 0.010677146263125388,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0527.jpg",
+      "weight": 0.05998375228309682,
+      "distance": 0.05998375228309682,
+      "safety": "safe"
+    }
+  ],
+  "frame_0527.jpg": [
+    {
+      "neighbor": "frame_0526.jpg",
+      "weight": 0.05998375228309682,
+      "distance": 0.05998375228309682,
+      "safety": "safe"
+    },
+    {
+      "neighbor": "frame_0528.jpg",
+      "weight": 0.026671484853833444,
+      "distance": 0.02051652681064111,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0528.jpg": [
+    {
+      "neighbor": "frame_0527.jpg",
+      "weight": 0.026671484853833444,
+      "distance": 0.02051652681064111,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0529.jpg",
+      "weight": 0.02665329408141422,
+      "distance": 0.02050253390878017,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0529.jpg": [
+    {
+      "neighbor": "frame_0528.jpg",
+      "weight": 0.02665329408141422,
+      "distance": 0.02050253390878017,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0530.jpg",
+      "weight": 0.026910712169027136,
+      "distance": 0.020700547822328566,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0530.jpg": [
+    {
+      "neighbor": "frame_0529.jpg",
+      "weight": 0.026910712169027136,
+      "distance": 0.020700547822328566,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0531.jpg",
+      "weight": 0.047696729220977604,
+      "distance": 0.03668979170844431,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0531.jpg": [
+    {
+      "neighbor": "frame_0530.jpg",
+      "weight": 0.047696729220977604,
+      "distance": 0.03668979170844431,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0532.jpg",
+      "weight": 0.026567763655724077,
+      "distance": 0.020436741273633905,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0532.jpg": [
+    {
+      "neighbor": "frame_0531.jpg",
+      "weight": 0.026567763655724077,
+      "distance": 0.020436741273633905,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0533.jpg",
+      "weight": 0.02688928760712795,
+      "distance": 0.020684067390098423,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0533.jpg": [
+    {
+      "neighbor": "frame_0532.jpg",
+      "weight": 0.02688928760712795,
+      "distance": 0.020684067390098423,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0534.jpg",
+      "weight": 0.025940795175086778,
+      "distance": 0.01995445782698983,
+      "safety": "minor_issue"
+    }
+  ],
+  "frame_0534.jpg": [
+    {
+      "neighbor": "frame_0533.jpg",
+      "weight": 0.025940795175086778,
+      "distance": 0.01995445782698983,
+      "safety": "minor_issue"
+    },
+    {
+      "neighbor": "frame_0535.jpg",
+      "weight": 0.020569714411467,
+      "distance": 0.020569714411467,
+      "safety": "safe"
+    }
+  ],
+  "frame_0535.jpg": [
+    {
+      "neighbor": "frame_0534.jpg",
+      "weight": 0.020569714411467,
+      "distance": 0.020569714411467,
+      "safety": "safe"
+    }
+  ]
+}

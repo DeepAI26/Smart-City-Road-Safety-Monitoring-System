@@ -1,0 +1,31 @@
+# Smart City AI Industry Project - Requirements
+# Python 3.8+
+
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Graph algorithms and network analysis
+networkx>=3.0
+
+# Geospatial calculations
+haversine>=2.8.0
+
+# Web framework
+flask>=2.3.0
+
+# Map visualization
+folium>=0.14.0
+
+# Computer vision and deep learning
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Optional: For GPX file parsing (if using images_extractor.py)
+gpxpy>=1.5.0
+
